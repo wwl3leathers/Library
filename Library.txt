@@ -3,11 +3,15 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Author (surname where applicable), series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 92; Favorited 22; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Categories are user-assigned: Legacy 97; Favorited 17; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
 Alternate recordings and bundles remain separate entries.
 
 LEGACY
 ======
+
+AUTHOR: Alan Black
+SERIES: Standalone / no series listed
+  Larry Goes to Space | Release date: Unverified
 
 AUTHOR: Lindsay Buroker
 SERIES: Rust & Relics
@@ -63,6 +67,10 @@ SERIES: The Dresden Files
 
   Working for Bigfoot | Release date: Unverified
 
+AUTHOR: Paulo Coelho
+SERIES: Standalone / no series listed
+  The Alchemist: A Fable About Following Your Dream | Release date: Unverified
+
 AUTHOR: Charles Dickens
 SERIES: Standalone / no series listed
   The Cricket on the Hearth | Release date: Unverified
@@ -104,6 +112,10 @@ SERIES: The Wheel of Time
   Book 13 - Towers of Midnight | Release date: Unverified
 
   Book 14 - A Memory of Light | Release date: Unverified
+
+AUTHOR: H. P. Lovecraft
+SERIES: Standalone / no series listed
+  The Complete Fiction of H.P. Lovecraft | Release date: Unverified
 
 AUTHOR: Jackson MacKenzie; Shannon Thomas (introduction)
 SERIES: Standalone / no series listed
@@ -225,9 +237,17 @@ SERIES: The Stormlight Archive / The Cosmere
 
   Book 4 - Rhythm of War | Release date: Unverified
 
+AUTHOR: John Scalzi
+SERIES: Standalone / no series listed
+  Starter Villain | Release date: Unverified
+
 AUTHOR: Jeff Sproul
 SERIES: Sigil Online
   Book 1 - Sigil Online: Paragons | Release date: Unverified
+
+AUTHOR: Bram Stoker
+SERIES: Standalone / no series listed
+  Dracula | Release date: Unverified
 
 AUTHOR: J. R. R. Tolkien
 SERIES: The Lord of the Rings
@@ -244,14 +264,6 @@ SERIES: Contractors
   Book 1 - Contractor | Release date: Unverified
 
   Book 2 - Prisoner | Release date: Unverified
-
-AUTHOR: Alan Black
-SERIES: Standalone / no series listed
-  Larry Goes to Space | Release date: Unverified
-
-AUTHOR: Paulo Coelho
-SERIES: Standalone / no series listed
-  The Alchemist: A Fable About Following Your Dream | Release date: Unverified
 
 AUTHOR: James Haddock
 SERIES: Standalone / no series listed
@@ -289,21 +301,9 @@ SERIES: Villains' Code
 
   Villains' Vignettes: Volume 2 | Release date: Unverified
 
-AUTHOR: H. P. Lovecraft
-SERIES: Standalone / no series listed
-  The Complete Fiction of H.P. Lovecraft | Release date: Unverified
-
 AUTHOR: Michael R. Miller; Portal Books
 SERIES: Standalone / no series listed
   Battle Spire: A Crafting LitRPG Book | Release date: Unverified
-
-AUTHOR: John Scalzi
-SERIES: Standalone / no series listed
-  Starter Villain | Release date: Unverified
-
-AUTHOR: Bram Stoker
-SERIES: Standalone / no series listed
-  Dracula | Release date: Unverified
 
 
 EDUCATIONAL
