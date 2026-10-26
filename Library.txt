@@ -1,10 +1,11 @@
 LIBRARY
 Catalog of 406 Audible library entries supplied October 25, 2026.
 
-ORDER: Author (surname where applicable), series, book number, title, release date.
+ORDER: Favorited and Fantasy/escape: narrator, author (surname where applicable), series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
 Categories are user-assigned: Legacy 97; Favorited 17; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
 Alternate recordings and bundles remain separate entries.
+Narrator names appear once per narrator group; ensemble recordings stay together.
 
 LEGACY
 ======
@@ -259,35 +260,7 @@ SERIES: The Lord of the Rings
 FAVORITED
 =========
 
-AUTHOR: Andrew Ball
-SERIES: Contractors
-  Book 1 - Contractor | Release date: Unverified
-
-  Book 2 - Prisoner | Release date: Unverified
-
-AUTHOR: James Haddock
-SERIES: Standalone / no series listed
-  Wizard's Alley | Release date: Unverified
-
-AUTHOR: Drew Hayes
-SERIES: 5-Minute Sherlock
-  Book 1 - The Case of the Damaged Detective | Release date: Unverified
-
-  Book 2 - The Case of the Haunted Haunted House | Release date: Unverified
-
-  Book 3 - The Case of the Felonious Faire | Release date: Unverified
-
-AUTHOR: Drew Hayes
-SERIES: Super Powereds
-  Book 1 - Super Powereds: Year 1 | Release date: Unverified
-
-  Book 2 - Super Powereds: Year 2 | Release date: Unverified
-
-  Book 3 - Super Powereds: Year 3 | Release date: Unverified
-
-  Book 4 - Super Powereds: Year 4 | Release date: Unverified
-
-  Book 5 - Corpies | Release date: Unverified
+NARRATOR: Amy Landon
 
 AUTHOR: Drew Hayes
 SERIES: Villains' Code
@@ -301,9 +274,53 @@ SERIES: Villains' Code
 
   Villains' Vignettes: Volume 2 | Release date: Unverified
 
+NARRATOR: Daniel Wisniewski
+
+AUTHOR: James Haddock
+SERIES: Standalone / no series listed
+  Wizard's Alley | Release date: Unverified
+
+NARRATOR: Justin Thomas James; Jeff Hays; Annie Ellicott
+
 AUTHOR: Michael R. Miller; Portal Books
 SERIES: Standalone / no series listed
   Battle Spire: A Crafting LitRPG Book | Release date: Unverified
+
+NARRATOR: Kyle McCarley
+
+AUTHOR: Drew Hayes
+SERIES: Super Powereds
+  Book 1 - Super Powereds: Year 1 | Release date: Unverified
+
+  Book 2 - Super Powereds: Year 2 | Release date: Unverified
+
+  Book 3 - Super Powereds: Year 3 | Release date: Unverified
+
+  Book 4 - Super Powereds: Year 4 | Release date: Unverified
+
+  Book 5 - Corpies | Release date: Unverified
+
+NARRATOR: Luke Daniels
+
+AUTHOR: Andrew Ball
+SERIES: Contractors
+  Book 1 - Contractor | Release date: Unverified
+
+  Book 2 - Prisoner | Release date: Unverified
+
+NARRATOR: Scott Aiello
+
+AUTHOR: Drew Hayes
+SERIES: 5-Minute Sherlock
+  Book 2 - The Case of the Haunted Haunted House | Release date: Unverified
+
+  Book 3 - The Case of the Felonious Faire | Release date: Unverified
+
+NARRATOR: Scott Aiello; Carol Monda
+
+AUTHOR: Drew Hayes
+SERIES: 5-Minute Sherlock
+  Book 1 - The Case of the Damaged Detective | Release date: Unverified
 
 
 EDUCATIONAL
@@ -451,6 +468,8 @@ SERIES: Iron Druid Chronicles
 
 AUTHOR: Richard Roberts
 SERIES: Please Don't Tell My Parents
+  Book 0 - I Did NOT Give That Spider Superhuman Intelligence! | Release date: Unverified
+
   Book 1 - Please Don't Tell My Parents I'm a Supervillain | Release date: Unverified
 
   Book 2 - Please Don't Tell My Parents I Blew Up the Moon | Release date: Unverified
@@ -461,195 +480,23 @@ SERIES: Please Don't Tell My Parents
 
   Book 5 - Please Don't Tell My Parents You Believe Her | Release date: Unverified
 
-  Book 0 - I Did NOT Give That Spider Superhuman Intelligence! | Release date: Unverified
-
 
 FANTASY/ESCAPE
 ==============
 
-AUTHOR: Gregory Allanther
-SERIES: Wizard's Tower
-  Book 1 - Wizard's Tower | Release date: Unverified
+NARRATOR: Adam Baldwin
 
-  Book 2 - Wizard's Tower 2 | Release date: Unverified
+AUTHOR: Larry Correia
+SERIES: The Adventures of Tom Stranger, Interdimensional Insurance Agent
+  The Adventures of Tom Stranger, Interdimensional Insurance Agent | Release date: Unverified
 
-  Book 3 - Wizard's Tower 3 | Release date: Unverified
-
-AUTHOR: Michael Atamanov
-SERIES: The Dark Herbalist
-  Book 1 - Video Game Plotline Tester | Release date: Unverified
-
-AUTHOR: Michael Atamanov; Andrew Schmitt (translator)
-SERIES: The Dark Herbalist
-  Book 2 - Stay on the Wing | Release date: Unverified
-
-AUTHOR: Michael Atamanov
-SERIES: The Dark Herbalist
-  Book 3 - A Trap for the Potentate | Release date: Unverified
-
-AUTHOR: Michael Atamanov; Andrew Schmitt (translator)
-SERIES: The Dark Herbalist
-  Book 4 - Finding a Body | Release date: Unverified
-
-AUTHOR: Xander Boyce
-SERIES: Red Mage
-  Book 1 - Advent | Release date: Unverified
-
-  Book 2 - Temper | Release date: Unverified
-
-  Book 3 - Fracture | Release date: Unverified
-
-AUTHOR: Jonathan Brooks
-SERIES: Magical Fusion
-  Book 1 - The Fusionist | Release date: Unverified
-
-  Book 2 - Academic ConFusion | Release date: Unverified
-
-  Book 3 - Aetheric InFusion | Release date: Unverified
-
-  Book 4 - Global DifFusion | Release date: Unverified
-
-AUTHOR: Casualfarmer
-SERIES: Beware of Chicken
-  Book 1 - Beware of Chicken | Release date: Unverified
-
-  Book 2 - Beware of Chicken 2 | Release date: Unverified
-
-  Book 3 - Beware of Chicken 3 | Release date: Unverified
-
-  Book 4 - Beware of Chicken 4 | Release date: Unverified
-
-AUTHOR: Luke Chmilenko
-SERIES: Starbreaker
-  Book 1 - Starbreaker: Volume 1 | Release date: Unverified
-
-  Book 2 - Starbreaker: Volume 2 | Release date: Unverified
-
-  Book 3 - Starbreaker: Volume 3 | Release date: Unverified
-
-AUTHOR: J.M. Clarke
-SERIES: Mark of the Fool
-  Book 1 - Mark of the Fool | Release date: Unverified
-
-  Book 2 - Mark of the Fool 2 | Release date: Unverified
+NARRATOR: Adam Baldwin; Larry Correia
 
 AUTHOR: Larry Correia
 SERIES: The Adventures of Tom Stranger, Interdimensional Insurance Agent
   #1 in Customer Service: The Complete Adventures of Tom Stranger | Release date: Unverified
 
-  The Adventures of Tom Stranger, Interdimensional Insurance Agent | Release date: Unverified
-
-AUTHOR: Blaise Corvin; Outspan Foster; Blaise Corvin (foreword)
-SERIES: Anthem of Infinity
-  Book 1 - First Song | Release date: Unverified
-
-  Book 2 - First Song, Book Two | Release date: Unverified
-
-AUTHOR: Blaise Corvin; C. Cheesecake
-SERIES: Cozy Isekai Craftsman
-  Book 1 - Lockwood | Release date: Unverified
-
-  Book 2 - Loyalties | Release date: Unverified
-
-AUTHOR: Blaise Corvin
-SERIES: Sponsored Apocalypse
-  Book 1 - Sponsored Apocalypse | Release date: Unverified
-
-  Book 2 - Sponsored Apocalypse 2 | Release date: Unverified
-
-AUTHOR: Matt Dinniman
-SERIES: Dungeon Crawler Carl
-  Book 1 - Dungeon Crawler Carl | Release date: Unverified
-
-  Book 2 - Carl's Doomsday Scenario | Release date: Unverified
-
-  Book 3 - The Dungeon Anarchist's Cookbook | Release date: Unverified
-
-  Book 4 - The Gate of the Feral Gods | Release date: Unverified
-
-  Book 5 - The Butcher's Masquerade | Release date: Unverified
-
-  Book 6 - The Eye of the Bedlam Bride | Release date: Unverified
-
-  Book 7 - This Inevitable Ruin | Release date: Unverified
-
-  Book 8 - A Parade of Horribles | Release date: Unverified
-
-AUTHOR: Timothy Ellis
-SERIES: Spacemage Chronicle
-  Book 1 - Yesterday's Spacemage | Release date: Unverified
-
-  Book 2 - Today's Spacemage | Release date: Unverified
-
-  Book 3 - Tomorrow's Spacemage | Release date: Unverified
-
-AUTHOR: Miles English
-SERIES: Bog Standard Isekai
-  Book 1 - Scarred | Release date: Unverified
-
-  Book 2 - Illusionist | Release date: Unverified
-
-  Book 3 - Nightmares | Release date: Unverified
-
-AUTHOR: James Ghoul
-SERIES: Hawkin's Magic Beers
-  Book 1 - Bronze Rank Brewer | Release date: Unverified
-
-AUTHOR: Jakob H. Greif
-SERIES: Apocalypse Redux
-  Book 1 - Apocalypse Redux, Book One | Release date: Unverified
-
-  Book 2 - Apocalypse Redux, Book Two | Release date: Unverified
-
-  Book 3 - Apocalypse Redux: Book Three | Release date: Unverified
-
-  Book 4 - Apocalypse Redux, Book Four | Release date: Unverified
-
-  Book 5 - Apocalypse Redux - Book Five | Release date: Unverified
-
-  Book 6 - Apocalypse Redux - Book Six | Release date: Unverified
-
-AUTHOR: From Hell; OppaTranslations (translator)
-SERIES: Master Hunter K
-  Book 1 - Initialization | Release date: Unverified
-
-  Book 2 - The Chosen Ones | Release date: Unverified
-
-AUTHOR: From Hell
-SERIES: Master Hunter K
-  Book 3 - The Final Chapter | Release date: Unverified
-
-AUTHOR: Haylock Jobson
-SERIES: Heretical Fishing
-  Book 1 - Heretical Fishing | Release date: Unverified
-
-  Book 2 - Heretical Fishing 2 | Release date: Unverified
-
-  Book 3 - Heretical Fishing 3 | Release date: Unverified
-
-  Book 4 - Heretical Fishing 4 | Release date: Unverified
-
-AUTHOR: KamikazePotato
-SERIES: An Outcast in Another World
-  Book 1 - Human Insanity | Release date: Unverified
-
-  Book 2 - Shared Insanity | Release date: Unverified
-
-  Book 3 - Rising Insanity | Release date: Unverified
-
-  Book 4 - Ascendant Insanity | Release date: Unverified
-
-AUTHOR: Kennit Kenway
-SERIES: Sylver Seeker
-  Book 1-4 - Sylver Seeker, Books 1-4 [Bundle] | Release date: Unverified
-
-AUTHOR: Tommy Kerper; SourpatchHero
-SERIES: I'm Not the Hero
-  Book 1 - I'm Not the Hero | Release date: Unverified
-
-  Book 2 - Secrets and Strife | Release date: Unverified
-
-  Book 3 - An Education in Magical Affairs | Release date: Unverified
+NARRATOR: Adam Stubbs
 
 AUTHOR: L. M. Kerr
 SERIES: Reborn: Apocalypse
@@ -661,125 +508,25 @@ SERIES: Reborn: Apocalypse
 
   Book 4 - Reborn: Apocalypse, Volume 4 | Release date: Unverified
 
-AUTHOR: Aleron Kong
-SERIES: Chaos Seeds (The Land)
-  Book 1 - The Land: Founding | Release date: Unverified
+NARRATOR: Adam Verner
 
-  Book 2 - The Land: Forging | Release date: Unverified
+AUTHOR: SunriseCV
+SERIES: System Universe
+  Book 1 - System Change | Release date: Unverified
 
-  Book 3 - The Land: Alliances | Release date: Unverified
+  Book 2 - Torith | Release date: Unverified
 
-  Book 4 - The Land: Catacombs | Release date: Unverified
+  Book 3 - Savannah | Release date: Unverified
 
-  Book 5 - The Land: Swarm | Release date: Unverified
+  Book 4 - Trials of Cydaria | Release date: Unverified
 
-  Book 6 - The Land: Raiders | Release date: Unverified
+  Book 5 - System Interference | Release date: Unverified
 
-  Book 7 - The Land: Predators | Release date: Unverified
+  Book 6 - Indaria | Release date: Unverified
 
-  Book 8 - The Land: Monsters | Release date: Unverified
+  Book 7 - Requirements | Release date: Unverified
 
-AUTHOR: Jay Krauss
-SERIES: Founder's Edition
-  Book 1 - Lighting the Forge | Release date: Unverified
-
-  Book 2 - Striking the Stone | Release date: Unverified
-
-AUTHOR: Cassius Lange; Ryan Tang
-SERIES: Mimic & Me
-  Book 1 - Mimic & Me | Release date: Unverified
-
-  Book 2 - Mimic & Me 2 | Release date: Unverified
-
-  Book 3 - Mimic & Me 3 | Release date: Unverified
-
-  Book 4 - Mimic & Me 4 | Release date: Unverified
-
-AUTHOR: V.A. Lewis
-SERIES: Amelia
-  Book 1 - Amelia the Level Zero Hero | Release date: Unverified
-
-  Book 2 - Amelia the Level Zero Hero 2 | Release date: Unverified
-
-  Book 3 - Amelia the Level Zero Hero 3 | Release date: Unverified
-
-AUTHOR: Vasily Mahanenko
-SERIES: Galactogon
-  Book 1 - Start the Game | Release date: Unverified
-
-AUTHOR: Vasily Mahanenko
-SERIES: The Way of the Shaman
-  Book 1 - Survival Quest | Release date: Unverified
-
-  Book 2 - The Kartoss Gambit | Release date: Unverified
-
-  Book 3 - The Secret of the Dark Forest | Release date: Unverified
-
-  Book 4 - The Phantom Castle | Release date: Unverified
-
-  Book 5 - The Karmadont Chess Set | Release date: Unverified
-
-  Book 6 - Shaman's Revenge | Release date: Unverified
-
-  Book 7 - Clans War | Release date: Unverified
-
-AUTHOR: J.R. Mathews
-SERIES: Jake's Magical Market
-  Book 1 - Jake's Magical Market | Release date: Unverified
-
-  Book 2 - Jake's Magical Market 2: A Trek Through Time | Release date: Unverified
-
-AUTHOR: R.A. Mejia; Charles Dean
-SERIES: Apocalypse: Regression
-  Book 1 - Apocalypse: Regression, Book 1 | Release date: Unverified
-
-  Book 2 - Apocalypse | Release date: Unverified
-
-  Book 3 - Apocalypse: Regression | Release date: Unverified
-
-  Book 4 - Apocalypse: Regression 4 | Release date: Unverified
-
-AUTHOR: R.A. Mejia
-SERIES: Project Alpha
-  Book 1 - Project Alpha: Book 1 | Release date: Unverified
-
-  Book 2 - Project Alpha: Book 2 | Release date: Unverified
-
-AUTHOR: Cameron Milan
-SERIES: Towers of Heaven
-  Book 1 - Towers of Heaven: Book 1 | Release date: Unverified
-
-  Book 2 - Towers of Heaven: Book 2 | Release date: Unverified
-
-  Book 3 - Towers of Heaven: Book 3 | Release date: Unverified
-
-AUTHOR: Alexey Osadchuk
-SERIES: Mirror World
-  Book 1 - Project Daily Grind | Release date: Unverified
-
-  Book 2 - The Citadel | Release date: Unverified
-
-  Book 3 - The Way of the Outcast | Release date: Unverified
-
-  Book 4 - The Twilight Obelisk | Release date: Unverified
-
-AUTHOR: Alexey Osadchuk; Irene Woodhead (translator); Neil P. Woodhead (translator)
-SERIES: Mirror World
-  Book 5 - The Founder | Release date: Unverified
-
-AUTHOR: Sean Oswald
-SERIES: Class Shift
-  Book 1 - Uncontrollable | Release date: Unverified
-
-  Book 2 - Unbalanced | Release date: Unverified
-
-  Book 3 - Unstoppable | Release date: Unverified
-
-AUTHOR: P.A. Parsons
-SERIES: The Legends of Arenia
-  Book 1 - Arrival | Release date: Unverified
-
-  Book 2 - Discovery | Release date: Unverified
+NARRATOR: Andrea Parsneau
 
 AUTHOR: pirateaba
 SERIES: Singer of Terandria
@@ -819,55 +566,99 @@ SERIES: The Wandering Inn
 
   Book 15 - Garden of Sanctuary | Release date: Unverified
 
-  Book 16 - King of Duels | Release date: Unverified
+NARRATOR: Bill Lord
 
-  Book 17 - Lady of Fire | Release date: Unverified
+AUTHOR: Vasily Mahanenko
+SERIES: Galactogon
+  Book 1 - Start the Game | Release date: Unverified
 
-  Book 18 - Archmage's Ire | Release date: Unverified
+NARRATOR: Daniel Thomas May
 
-  Book 19 - Couriers Outbound | Release date: Unverified
+AUTHOR: Jakob H. Greif
+SERIES: Apocalypse Redux
+  Book 1 - Apocalypse Redux, Book One | Release date: Unverified
 
-AUTHOR: Cale Plamann
-SERIES: Blessed Time
-  Book 1-4 - Blessed Time: The Complete Series [Bundle] | Release date: Unverified
+  Book 2 - Apocalypse Redux, Book Two | Release date: Unverified
 
-AUTHOR: Ryan Rimmel
-SERIES: Fifth Era Apocalypse
-  Book 1 - One Bad Roll | Release date: Unverified
+  Book 3 - Apocalypse Redux: Book Three | Release date: Unverified
 
-  Book 2 - The Tap Dancing Tarasque | Release date: Unverified
+  Book 4 - Apocalypse Redux, Book Four | Release date: Unverified
 
-AUTHOR: Ryan Rimmel
-SERIES: Noobtown
-  Book 1 - The Mayor of Noobtown | Release date: Unverified
+  Book 5 - Apocalypse Redux - Book Five | Release date: Unverified
 
-  Book 2 - The Village of Noobtown | Release date: Unverified
+  Book 6 - Apocalypse Redux - Book Six | Release date: Unverified
 
-  Book 3 - Castle of the Noobs | Release date: Unverified
+NARRATOR: Daniel Wisniewski
 
-  Book 4 - Dungeons and Noobs | Release date: Unverified
+AUTHOR: Jay Krauss
+SERIES: Founder's Edition
+  Book 1 - Lighting the Forge | Release date: Unverified
 
-  Book 5 - Noob Game Plus | Release date: Unverified
+  Book 2 - Striking the Stone | Release date: Unverified
 
-  Book 6 - Nautical Noobs | Release date: Unverified
+AUTHOR: Sean Oswald
+SERIES: Class Shift
+  Book 1 - Uncontrollable | Release date: Unverified
 
-  Book 7 - Tower of the Noobs | Release date: Unverified
+  Book 2 - Unbalanced | Release date: Unverified
 
-  Book 8 - The War of the Noobs | Release date: Unverified
+  Book 3 - Unstoppable | Release date: Unverified
 
-  Book 9 - The Noob Returns | Release date: Unverified
+NARRATOR: Daniel Wisniewski; Elizabeth Plant
 
-AUTHOR: RinoZ
-SERIES: Chrysalis
-  Book 1 - The Antventure Begins | Release date: Unverified
+AUTHOR: R.A. Mejia; Charles Dean
+SERIES: Apocalypse: Regression
+  Book 1 - Apocalypse: Regression, Book 1 | Release date: Unverified
 
-  Book 2 - Upping the Ante | Release date: Unverified
+  Book 2 - Apocalypse | Release date: Unverified
 
-  Book 3 - Antelligent Design | Release date: Unverified
+  Book 3 - Apocalypse: Regression | Release date: Unverified
 
-  Book 4 - Between a Rock and a Carapace | Release date: Unverified
+  Book 4 - Apocalypse: Regression 4 | Release date: Unverified
 
-  Book 5 - Enemy A(n)t the Gates | Release date: Unverified
+NARRATOR: Daniel Wisniewski; Jessica Threet
+
+AUTHOR: Dave Willmarth
+SERIES: Battleborne
+  Book 1 - Battleborne | Release date: Unverified
+
+  Book 2 - Wrack and Ruin | Release date: Unverified
+
+  Book 3 - Dungeons & Guardians | Release date: Unverified
+
+  Book 4 - Dungeon Master | Release date: Unverified
+
+NARRATOR: Derek Austin
+
+AUTHOR: Austyn Vickers
+SERIES: Accidental Healer
+  Book 1 - Accidental Healer | Release date: Unverified
+
+NARRATOR: Eric Jason Martin
+
+AUTHOR: Blaise Corvin
+SERIES: Sponsored Apocalypse
+  Book 1 - Sponsored Apocalypse | Release date: Unverified
+
+  Book 2 - Sponsored Apocalypse 2 | Release date: Unverified
+
+NARRATOR: Eric Michael Summerer
+
+AUTHOR: Michael Atamanov
+SERIES: The Dark Herbalist
+  Book 1 - Video Game Plotline Tester | Release date: Unverified
+
+AUTHOR: Michael Atamanov; Andrew Schmitt (translator)
+SERIES: The Dark Herbalist
+  Book 2 - Stay on the Wing | Release date: Unverified
+
+AUTHOR: Michael Atamanov
+SERIES: The Dark Herbalist
+  Book 3 - A Trap for the Potentate | Release date: Unverified
+
+AUTHOR: Michael Atamanov; Andrew Schmitt (translator)
+SERIES: The Dark Herbalist
+  Book 4 - Finding a Body | Release date: Unverified
 
 AUTHOR: Rick Scott
 SERIES: Crystal Shards Online
@@ -880,6 +671,42 @@ SERIES: Crystal Shards Online
   Book 4 - Gun Blade | Release date: Unverified
 
   Book 5 - Goblin Queen | Release date: Unverified
+
+NARRATOR: Erin Bennett
+
+AUTHOR: pirateaba
+SERIES: The Wandering Inn
+  Book 16 - King of Duels | Release date: Unverified
+
+  Book 17 - Lady of Fire | Release date: Unverified
+
+  Book 18 - Archmage's Ire | Release date: Unverified
+
+  Book 19 - Couriers Outbound | Release date: Unverified
+
+NARRATOR: Garrett Michael Brown
+
+AUTHOR: Blaise Corvin; C. Cheesecake
+SERIES: Cozy Isekai Craftsman
+  Book 1 - Lockwood | Release date: Unverified
+
+  Book 2 - Loyalties | Release date: Unverified
+
+AUTHOR: Kennit Kenway
+SERIES: Sylver Seeker
+  Book 1-4 - Sylver Seeker, Books 1-4 [Bundle] | Release date: Unverified
+
+NARRATOR: Heath Miller
+
+AUTHOR: Haylock Jobson
+SERIES: Heretical Fishing
+  Book 1 - Heretical Fishing | Release date: Unverified
+
+  Book 2 - Heretical Fishing 2 | Release date: Unverified
+
+  Book 3 - Heretical Fishing 3 | Release date: Unverified
+
+  Book 4 - Heretical Fishing 4 | Release date: Unverified
 
 AUTHOR: Shirtaloon; Travis Deverell
 SERIES: He Who Fights with Monsters
@@ -907,33 +734,261 @@ SERIES: He Who Fights with Monsters
 
   Book 12 - He Who Fights with Monsters 12 | Release date: Unverified
 
-AUTHOR: Jonathan Smidt; Portal Books
-SERIES: Elemental Dungeon
-  Book 1 - Bone Dungeon | Release date: Unverified
-
-  Book 2 - Infernal Bones | Release date: Unverified
-
-  Book 3 - Hallowed Bones | Release date: Unverified
-
-AUTHOR: SunriseCV
-SERIES: System Universe
-  Book 1 - System Change | Release date: Unverified
-
-  Book 2 - Torith | Release date: Unverified
-
-  Book 3 - Savannah | Release date: Unverified
-
-  Book 4 - Trials of Cydaria | Release date: Unverified
-
-  Book 5 - System Interference | Release date: Unverified
-
-  Book 6 - Indaria | Release date: Unverified
-
-  Book 7 - Requirements | Release date: Unverified
+NARRATOR: Jackie Meloche
 
 AUTHOR: Dustin Tigner
 SERIES: Dungeon Runner
   Book 1 - Dungeon Runner 1 | Release date: Unverified
+
+NARRATOR: James Ghoul
+
+AUTHOR: James Ghoul
+SERIES: Hawkin's Magic Beers
+  Book 1 - Bronze Rank Brewer | Release date: Unverified
+
+NARRATOR: Jeff Hays
+
+AUTHOR: Matt Dinniman
+SERIES: Dungeon Crawler Carl
+  Book 1 - Dungeon Crawler Carl | Release date: Unverified
+
+  Book 2 - Carl's Doomsday Scenario | Release date: Unverified
+
+  Book 4 - The Gate of the Feral Gods | Release date: Unverified
+
+  Book 5 - The Butcher's Masquerade | Release date: Unverified
+
+  Book 8 - A Parade of Horribles | Release date: Unverified
+
+AUTHOR: P.A. Parsons
+SERIES: The Legends of Arenia
+  Book 1 - Arrival | Release date: Unverified
+
+  Book 2 - Discovery | Release date: Unverified
+
+NARRATOR: Jeff Hays; Annie Ellicott
+
+AUTHOR: RinoZ
+SERIES: Chrysalis
+  Book 1 - The Antventure Begins | Release date: Unverified
+
+  Book 2 - Upping the Ante | Release date: Unverified
+
+  Book 3 - Antelligent Design | Release date: Unverified
+
+  Book 4 - Between a Rock and a Carapace | Release date: Unverified
+
+  Book 5 - Enemy A(n)t the Gates | Release date: Unverified
+
+NARRATOR: Jeff Hays; Patrick Warburton; Travis Baldree; Annie Ellicott
+
+AUTHOR: Matt Dinniman
+SERIES: Dungeon Crawler Carl
+  Book 6 - The Eye of the Bedlam Bride | Release date: Unverified
+
+NARRATOR: Jeff Hays; The Critical Drinker
+
+AUTHOR: Matt Dinniman
+SERIES: Dungeon Crawler Carl
+  Book 3 - The Dungeon Anarchist's Cookbook | Release date: Unverified
+
+NARRATOR: Jeff Hays; Travis Baldree
+
+AUTHOR: Matt Dinniman
+SERIES: Dungeon Crawler Carl
+  Book 7 - This Inevitable Ruin | Release date: Unverified
+
+NARRATOR: Jessica Threet; Eric Jason Martin
+
+AUTHOR: Dave Willmarth
+SERIES: Scion's Journey
+  Book 1 - Oath of Vengeance | Release date: Unverified
+
+  Book 2 - The Last High Lord | Release date: Unverified
+
+NARRATOR: Jill Smith
+
+AUTHOR: R.A. Mejia
+SERIES: Project Alpha
+  Book 1 - Project Alpha: Book 1 | Release date: Unverified
+
+  Book 2 - Project Alpha: Book 2 | Release date: Unverified
+
+NARRATOR: John Pirhalla
+
+AUTHOR: J.R. Mathews
+SERIES: Jake's Magical Market
+  Book 2 - Jake's Magical Market 2: A Trek Through Time | Release date: Unverified
+
+NARRATOR: Johnathan McClain
+
+AUTHOR: Miles English
+SERIES: Bog Standard Isekai
+  Book 1 - Scarred | Release date: Unverified
+
+  Book 2 - Illusionist | Release date: Unverified
+
+  Book 3 - Nightmares | Release date: Unverified
+
+AUTHOR: Ryan Rimmel
+SERIES: Fifth Era Apocalypse
+  Book 1 - One Bad Roll | Release date: Unverified
+
+  Book 2 - The Tap Dancing Tarasque | Release date: Unverified
+
+AUTHOR: Ryan Rimmel
+SERIES: Noobtown
+  Book 1 - The Mayor of Noobtown | Release date: Unverified
+
+  Book 2 - The Village of Noobtown | Release date: Unverified
+
+  Book 3 - Castle of the Noobs | Release date: Unverified
+
+  Book 4 - Dungeons and Noobs | Release date: Unverified
+
+  Book 5 - Noob Game Plus | Release date: Unverified
+
+  Book 6 - Nautical Noobs | Release date: Unverified
+
+  Book 7 - Tower of the Noobs | Release date: Unverified
+
+  Book 8 - The War of the Noobs | Release date: Unverified
+
+  Book 9 - The Noob Returns | Release date: Unverified
+
+AUTHOR: Shawn Wilson
+SERIES: Ultimate Level 1
+  Book 1 - Shattered Dreams | Release date: Unverified
+
+NARRATOR: Jonathan Sleep
+
+AUTHOR: Alexey Osadchuk; Irene Woodhead (translator); Neil P. Woodhead (translator)
+SERIES: Mirror World
+  Book 5 - The Founder | Release date: Unverified
+
+NARRATOR: Jonathan Yen
+
+AUTHOR: Vasily Mahanenko
+SERIES: The Way of the Shaman
+  Book 1 - Survival Quest | Release date: Unverified
+
+  Book 2 - The Kartoss Gambit | Release date: Unverified
+
+  Book 3 - The Secret of the Dark Forest | Release date: Unverified
+
+  Book 4 - The Phantom Castle | Release date: Unverified
+
+  Book 5 - The Karmadont Chess Set | Release date: Unverified
+
+  Book 6 - Shaman's Revenge | Release date: Unverified
+
+  Book 7 - Clans War | Release date: Unverified
+
+NARRATOR: Justin Thomas James; Jeff Hays; Andrea Parsneau
+
+AUTHOR: Gregory Allanther
+SERIES: Wizard's Tower
+  Book 1 - Wizard's Tower | Release date: Unverified
+
+  Book 2 - Wizard's Tower 2 | Release date: Unverified
+
+  Book 3 - Wizard's Tower 3 | Release date: Unverified
+
+AUTHOR: Prax Venter
+SERIES: Irrelevant Jack
+  Book 1 - Irrelevant Jack | Release date: Unverified
+
+  Book 3 - Irrelevant Jack 3 | Release date: Unverified
+
+  Book 4 - Irrelevant Jack 4 | Release date: Unverified
+
+  Book 5 - Irrelevant Jack 5 | Release date: Unverified
+
+  Book 6 - Irrelevant Jack 6 | Release date: Unverified
+
+NARRATOR: Justin Thomas James; Jeff Hays; Andrea Parsneau; Prax Venter
+
+AUTHOR: Prax Venter
+SERIES: Irrelevant Jack
+  Book 2 - Irrelevant Jack 2 | Release date: Unverified
+
+NARRATOR: Kevin T. Collins
+
+AUTHOR: Timothy Ellis
+SERIES: Spacemage Chronicle
+  Book 1 - Yesterday's Spacemage | Release date: Unverified
+
+  Book 2 - Today's Spacemage | Release date: Unverified
+
+  Book 3 - Tomorrow's Spacemage | Release date: Unverified
+
+NARRATOR: Kyle McCarley
+
+AUTHOR: Alexey Osadchuk
+SERIES: Mirror World
+  Book 1 - Project Daily Grind | Release date: Unverified
+
+  Book 2 - The Citadel | Release date: Unverified
+
+  Book 3 - The Way of the Outcast | Release date: Unverified
+
+  Book 4 - The Twilight Obelisk | Release date: Unverified
+
+NARRATOR: Luke Daniels
+
+AUTHOR: Xander Boyce
+SERIES: Red Mage
+  Book 1 - Advent | Release date: Unverified
+
+  Book 2 - Temper | Release date: Unverified
+
+  Book 3 - Fracture | Release date: Unverified
+
+NARRATOR: Mare Trevathan
+
+AUTHOR: V.A. Lewis
+SERIES: Amelia
+  Book 1 - Amelia the Level Zero Hero | Release date: Unverified
+
+  Book 2 - Amelia the Level Zero Hero 2 | Release date: Unverified
+
+  Book 3 - Amelia the Level Zero Hero 3 | Release date: Unverified
+
+NARRATOR: Miles Meili
+
+AUTHOR: Jonathan Brooks
+SERIES: Magical Fusion
+  Book 1 - The Fusionist | Release date: Unverified
+
+  Book 2 - Academic ConFusion | Release date: Unverified
+
+  Book 3 - Aetheric InFusion | Release date: Unverified
+
+  Book 4 - Global DifFusion | Release date: Unverified
+
+NARRATOR: Neil Hellegers
+
+AUTHOR: Luke Chmilenko
+SERIES: Starbreaker
+  Book 1 - Starbreaker: Volume 1 | Release date: Unverified
+
+  Book 2 - Starbreaker: Volume 2 | Release date: Unverified
+
+  Book 3 - Starbreaker: Volume 3 | Release date: Unverified
+
+AUTHOR: KamikazePotato
+SERIES: An Outcast in Another World
+  Book 1 - Human Insanity | Release date: Unverified
+
+  Book 2 - Shared Insanity | Release date: Unverified
+
+  Book 3 - Rising Insanity | Release date: Unverified
+
+  Book 4 - Ascendant Insanity | Release date: Unverified
+
+AUTHOR: Cale Plamann
+SERIES: Blessed Time
+  Book 1-4 - Blessed Time: The Complete Series [Bundle] | Release date: Unverified
 
 AUTHOR: Eric Ugland
 SERIES: The Bad Guys
@@ -997,39 +1052,103 @@ AUTHOR: Eric Ugland
 SERIES: The Grim Guys
   Book 1 - Press Start | Release date: Unverified
 
-AUTHOR: Prax Venter
-SERIES: Irrelevant Jack
-  Book 1 - Irrelevant Jack | Release date: Unverified
+NARRATOR: Nick Flesher
 
-  Book 2 - Irrelevant Jack 2 | Release date: Unverified
+AUTHOR: Zathiun
+SERIES: How I Became the Strongest Man in the Galaxy
+  Book 1 - How I Became the Strongest Man in the Galaxy | Release date: Unverified
 
-  Book 3 - Irrelevant Jack 3 | Release date: Unverified
+NARRATOR: Nick Podehl
 
-  Book 4 - Irrelevant Jack 4 | Release date: Unverified
+AUTHOR: Tommy Kerper; SourpatchHero
+SERIES: I'm Not the Hero
+  Book 1 - I'm Not the Hero | Release date: Unverified
 
-  Book 5 - Irrelevant Jack 5 | Release date: Unverified
+  Book 2 - Secrets and Strife | Release date: Unverified
 
-  Book 6 - Irrelevant Jack 6 | Release date: Unverified
+  Book 3 - An Education in Magical Affairs | Release date: Unverified
 
-AUTHOR: Austyn Vickers
-SERIES: Accidental Healer
-  Book 1 - Accidental Healer | Release date: Unverified
+AUTHOR: Aleron Kong
+SERIES: Chaos Seeds (The Land)
+  Book 1 - The Land: Founding | Release date: Unverified
 
-AUTHOR: Dave Willmarth
-SERIES: Battleborne
-  Book 1 - Battleborne | Release date: Unverified
+  Book 2 - The Land: Forging | Release date: Unverified
 
-  Book 2 - Wrack and Ruin | Release date: Unverified
+  Book 3 - The Land: Alliances | Release date: Unverified
 
-  Book 3 - Dungeons & Guardians | Release date: Unverified
+  Book 4 - The Land: Catacombs | Release date: Unverified
 
-  Book 4 - Dungeon Master | Release date: Unverified
+  Book 5 - The Land: Swarm | Release date: Unverified
 
-AUTHOR: Dave Willmarth
-SERIES: Scion's Journey
-  Book 1 - Oath of Vengeance | Release date: Unverified
+  Book 6 - The Land: Raiders | Release date: Unverified
 
-  Book 2 - The Last High Lord | Release date: Unverified
+  Book 7 - The Land: Predators | Release date: Unverified
+
+  Book 8 - The Land: Monsters | Release date: Unverified
+
+NARRATOR: Ramon De Ocampo
+
+AUTHOR: Blaise Corvin; Outspan Foster; Blaise Corvin (foreword)
+SERIES: Anthem of Infinity
+  Book 1 - First Song | Release date: Unverified
+
+  Book 2 - First Song, Book Two | Release date: Unverified
+
+NARRATOR: Ryan H. Reid; Jeff Hays; Dorrie Sacks
+
+AUTHOR: Cassius Lange; Ryan Tang
+SERIES: Mimic & Me
+  Book 1 - Mimic & Me | Release date: Unverified
+
+  Book 2 - Mimic & Me 2 | Release date: Unverified
+
+  Book 3 - Mimic & Me 3 | Release date: Unverified
+
+  Book 4 - Mimic & Me 4 | Release date: Unverified
+
+NARRATOR: Steve Campbell
+
+AUTHOR: Cameron Milan
+SERIES: Towers of Heaven
+  Book 1 - Towers of Heaven: Book 1 | Release date: Unverified
+
+  Book 2 - Towers of Heaven: Book 2 | Release date: Unverified
+
+  Book 3 - Towers of Heaven: Book 3 | Release date: Unverified
+
+NARRATOR: Travis Baldree
+
+AUTHOR: Casualfarmer
+SERIES: Beware of Chicken
+  Book 1 - Beware of Chicken | Release date: Unverified
+
+  Book 2 - Beware of Chicken 2 | Release date: Unverified
+
+  Book 3 - Beware of Chicken 3 | Release date: Unverified
+
+  Book 4 - Beware of Chicken 4 | Release date: Unverified
+
+AUTHOR: J.M. Clarke
+SERIES: Mark of the Fool
+  Book 1 - Mark of the Fool | Release date: Unverified
+
+  Book 2 - Mark of the Fool 2 | Release date: Unverified
+
+AUTHOR: From Hell; OppaTranslations (translator)
+SERIES: Master Hunter K
+  Book 1 - Initialization | Release date: Unverified
+
+  Book 2 - The Chosen Ones | Release date: Unverified
+
+AUTHOR: From Hell
+SERIES: Master Hunter K
+  Book 3 - The Final Chapter | Release date: Unverified
+
+AUTHOR: J.R. Mathews
+SERIES: Jake's Magical Market
+  Book 1 - Jake's Magical Market | Release date: Unverified
+
+NARRATOR: Will M. Watt; Annie Ellicott; Andrea Parsneau; Jeff Hays
 
 AUTHOR: Dave Willmarth
 SERIES: Shadow Sun
@@ -1039,11 +1158,17 @@ SERIES: Shadow Sun
 
   Book 3 - Shadow Sun Rebellion | Release date: Unverified
 
-AUTHOR: Shawn Wilson
-SERIES: Ultimate Level 1
-  Book 1 - Shattered Dreams | Release date: Unverified
+NARRATOR: Will M. Watt; Annie Ellicott; Jeff Hays; Laurie Catherine Winkel
 
-AUTHOR: Zathiun
-SERIES: How I Became the Strongest Man in the Galaxy
-  Book 1 - How I Became the Strongest Man in the Galaxy | Release date: Unverified
+AUTHOR: Jonathan Smidt; Portal Books
+SERIES: Elemental Dungeon
+  Book 1 - Bone Dungeon | Release date: Unverified
+
+  Book 3 - Hallowed Bones | Release date: Unverified
+
+NARRATOR: Will M. Watt; Annie Ellicott; Laurie Catherine Winkel
+
+AUTHOR: Jonathan Smidt; Portal Books
+SERIES: Elemental Dungeon
+  Book 2 - Infernal Bones | Release date: Unverified
 
