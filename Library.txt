@@ -3,7 +3,7 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Author (surname where applicable), series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 91; Favorited 7; Educational 3; Unassigned 305.
+Categories are user-assigned: Legacy 92; Favorited 22; Educational 3; Urban Fantasy/superhero 60; Unassigned 229.
 Alternate recordings and bundles remain separate entries.
 
 LEGACY
@@ -108,6 +108,10 @@ SERIES: The Wheel of Time
 AUTHOR: Jackson MacKenzie; Shannon Thomas (introduction)
 SERIES: Standalone / no series listed
   Whole Again: Healing Your Heart and Rediscovering Your True Self After Toxic Relationships and Emotional Abuse | Release date: Unverified
+
+AUTHOR: George R. R. Martin
+SERIES: A Song of Ice and Fire
+  Book 3 - A Storm of Swords | Release date: Unverified
 
 AUTHOR: Andy McDermott
 SERIES: Wilde/Chase
@@ -235,6 +239,12 @@ SERIES: The Lord of the Rings
 FAVORITED
 =========
 
+AUTHOR: Andrew Ball
+SERIES: Contractors
+  Book 1 - Contractor | Release date: Unverified
+
+  Book 2 - Prisoner | Release date: Unverified
+
 AUTHOR: Alan Black
 SERIES: Standalone / no series listed
   Larry Goes to Space | Release date: Unverified
@@ -246,6 +256,38 @@ SERIES: Standalone / no series listed
 AUTHOR: James Haddock
 SERIES: Standalone / no series listed
   Wizard's Alley | Release date: Unverified
+
+AUTHOR: Drew Hayes
+SERIES: 5-Minute Sherlock
+  Book 1 - The Case of the Damaged Detective | Release date: Unverified
+
+  Book 2 - The Case of the Haunted Haunted House | Release date: Unverified
+
+  Book 3 - The Case of the Felonious Faire | Release date: Unverified
+
+AUTHOR: Drew Hayes
+SERIES: Super Powereds
+  Book 1 - Super Powereds: Year 1 | Release date: Unverified
+
+  Book 2 - Super Powereds: Year 2 | Release date: Unverified
+
+  Book 3 - Super Powereds: Year 3 | Release date: Unverified
+
+  Book 4 - Super Powereds: Year 4 | Release date: Unverified
+
+  Book 5 - Corpies | Release date: Unverified
+
+AUTHOR: Drew Hayes
+SERIES: Villains' Code
+  Book 1 - Forging Hephaestus | Release date: Unverified
+
+  Book 2 - Bones of the Past | Release date: Unverified
+
+  Book 2.5 - Villains' Vignettes Volume I | Release date: Unverified
+
+  Book 3 - Chilling Reflections | Release date: Unverified
+
+  Villains' Vignettes: Volume 2 | Release date: Unverified
 
 AUTHOR: H. P. Lovecraft
 SERIES: Standalone / no series listed
@@ -280,6 +322,148 @@ SERIES: Standalone / no series listed
   How to Start a Business: The Ultimate Step-by-Step Guide to Starting a Small Business from Business Plan to Scaling Up + LLC | Release date: Unverified
 
 
+URBAN FANTASY/SUPERHERO
+=======================
+
+AUTHOR: William D. Arand
+SERIES: Super Sales on Super Heroes
+  Book 1 - Super Sales on Super Heroes | Release date: Unverified
+
+  Book 2 - Super Sales on Super Heroes, Book 2 | Release date: Unverified
+
+AUTHOR: Chelsea M. Campbell
+SERIES: Renegade X
+  Book 1 - The Rise of Renegade X | Release date: Unverified
+
+  Book 2 - The Trials of Renegade X | Release date: Unverified
+
+AUTHOR: Larry Correia
+SERIES: Monster Hunter
+  Book 1 - Monster Hunter International | Release date: Unverified
+
+  Book 2 - Monster Hunter Vendetta | Release date: Unverified
+
+  Book 3 - Monster Hunter Alpha | Release date: Unverified
+
+  Book 4 - Monster Hunter Legion | Release date: Unverified
+
+  Book 5 - Monster Hunter Nemesis | Release date: Unverified
+
+  Book 6 - Monster Hunter Siege | Release date: Unverified
+
+AUTHOR: Rick Gualtieri
+SERIES: The Tome of Bill / Bill of the Dead
+  Book 1-4 - The Tome of Bill Series - Books 1-4 [Bundle] | Release date: Unverified
+
+  Book 5-8 - The Tome of Bill Series: Books 5-8 [Bundle] | Release date: Unverified
+
+  Book 9 - Strange Days | Release date: Unverified
+
+  Book 10 - Everyday Horrors | Release date: Unverified
+
+  Book 11 - Carnage À Trois | Release date: Unverified
+
+AUTHOR: Kevin Hardman
+SERIES: Kid Sensation
+  Book 1 - Sensation | Release date: Unverified
+
+  Book 1-3 - The Kid Sensation Series: Books 1-3 [Bundle] | Release date: Unverified
+
+  Book 4 - Revelation | Release date: Unverified
+
+  Book 5 - Coronation | Release date: Unverified
+
+  Book 6 - Replication | Release date: Unverified
+
+  Book 7 - Incarnation | Release date: Unverified
+
+  Book 8 - Isolation | Release date: Unverified
+
+  Book 9 - Conjuration | Release date: Unverified
+
+  Mouse's Tale | Release date: Unverified
+
+AUTHOR: John G. Hartness
+SERIES: Bubba the Monster Hunter
+  Book 1 - Scattered, Smothered, and Chunked | Release date: Unverified
+
+  Book 1-3 - Bubba the Monster Hunter: Books 1-3 [Bundle] | Release date: Unverified
+
+  Book 2 - Grits, Guns & Glory | Release date: Unverified
+
+  Book 3 - Wine, Women, & Song | Release date: Unverified
+
+  Book 4 - Monsters, Magic, & Mayhem | Release date: Unverified
+
+  Book 5 - Blood, Sweat, & Tears | Release date: Unverified
+
+AUTHOR: Drew Hayes
+SERIES: Fred, the Vampire Accountant
+  Book 1 - The Utterly Uninteresting and Unadventurous Tales of Fred, the Vampire Accountant [Dramatized adaptation] | Release date: Unverified
+
+  Book 1 - The Utterly Uninteresting and Unadventurous Tales of Fred, the Vampire Accountant | Release date: Unverified
+
+  Book 2 - Undeath and Taxes [Dramatized adaptation] | Release date: Unverified
+
+  Book 2 - Undeath and Taxes | Release date: Unverified
+
+  Book 3 - Bloody Acquisitions [Dramatized adaptation] | Release date: Unverified
+
+  Book 3 - Bloody Acquisitions | Release date: Unverified
+
+  Book 4 - The Fangs of Freelance [Dramatized adaptation] | Release date: Unverified
+
+  Book 4 - The Fangs of Freelance | Release date: Unverified
+
+  Book 5 - Deadly Assessments [Dramatized adaptation] | Release date: Unverified
+
+  Book 5 - Deadly Assessments | Release date: Unverified
+
+  Book 6 - Undeading Bells | Release date: Unverified
+
+  Book 7 - Out of House and Home [Dramatized adaptation] | Release date: Unverified
+
+  Book 7 - Out of House and Home | Release date: Unverified
+
+  Book 8 - Posthumous Education | Release date: Unverified
+
+  Book 9 - All Accounts Settled | Release date: Unverified
+
+AUTHOR: Kevin Hearne
+SERIES: Iron Druid Chronicles
+  Book 1 - Hounded | Release date: Unverified
+
+  Book 2 - Hexed | Release date: Unverified
+
+  Book 3 - Hammered | Release date: Unverified
+
+  Book 4 - Tricked | Release date: Unverified
+
+  Book 5 - Trapped | Release date: Unverified
+
+  Book 6 - Hunted | Release date: Unverified
+
+  Book 7 - Shattered | Release date: Unverified
+
+  Book 8 - Staked | Release date: Unverified
+
+  Book 9 - Scourged | Release date: Unverified
+
+AUTHOR: Richard Roberts
+SERIES: Please Don't Tell My Parents
+  Book 1 - Please Don't Tell My Parents I'm a Supervillain | Release date: Unverified
+
+  Book 2 - Please Don't Tell My Parents I Blew Up the Moon | Release date: Unverified
+
+  Book 3 - Please Don't Tell My Parents I've Got Henchmen | Release date: Unverified
+
+  Book 4 - Please Don't Tell My Parents I Have a Nemesis | Release date: Unverified
+
+  Book 5 - Please Don't Tell My Parents You Believe Her | Release date: Unverified
+
+  Book 0 - I Did NOT Give That Spider Superhuman Intelligence! | Release date: Unverified
+
+
 UNASSIGNED
 ==========
 
@@ -290,12 +474,6 @@ SERIES: Wizard's Tower
   Book 2 - Wizard's Tower 2 | Release date: Unverified
 
   Book 3 - Wizard's Tower 3 | Release date: Unverified
-
-AUTHOR: William D. Arand
-SERIES: Super Sales on Super Heroes
-  Book 1 - Super Sales on Super Heroes | Release date: Unverified
-
-  Book 2 - Super Sales on Super Heroes, Book 2 | Release date: Unverified
 
 AUTHOR: Michael Atamanov
 SERIES: The Dark Herbalist
@@ -312,12 +490,6 @@ SERIES: The Dark Herbalist
 AUTHOR: Michael Atamanov; Andrew Schmitt (translator)
 SERIES: The Dark Herbalist
   Book 4 - Finding a Body | Release date: Unverified
-
-AUTHOR: Andrew Ball
-SERIES: Contractors
-  Book 1 - Contractor | Release date: Unverified
-
-  Book 2 - Prisoner | Release date: Unverified
 
 AUTHOR: Xander Boyce
 SERIES: Red Mage
@@ -336,12 +508,6 @@ SERIES: Magical Fusion
   Book 3 - Aetheric InFusion | Release date: Unverified
 
   Book 4 - Global DifFusion | Release date: Unverified
-
-AUTHOR: Chelsea M. Campbell
-SERIES: Renegade X
-  Book 1 - The Rise of Renegade X | Release date: Unverified
-
-  Book 2 - The Trials of Renegade X | Release date: Unverified
 
 AUTHOR: Casualfarmer
 SERIES: Beware of Chicken
@@ -366,20 +532,6 @@ SERIES: Mark of the Fool
   Book 1 - Mark of the Fool | Release date: Unverified
 
   Book 2 - Mark of the Fool 2 | Release date: Unverified
-
-AUTHOR: Larry Correia
-SERIES: Monster Hunter
-  Book 1 - Monster Hunter International | Release date: Unverified
-
-  Book 2 - Monster Hunter Vendetta | Release date: Unverified
-
-  Book 3 - Monster Hunter Alpha | Release date: Unverified
-
-  Book 4 - Monster Hunter Legion | Release date: Unverified
-
-  Book 5 - Monster Hunter Nemesis | Release date: Unverified
-
-  Book 6 - Monster Hunter Siege | Release date: Unverified
 
 AUTHOR: Larry Correia
 SERIES: The Adventures of Tom Stranger, Interdimensional Insurance Agent
@@ -456,136 +608,6 @@ SERIES: Apocalypse Redux
   Book 5 - Apocalypse Redux - Book Five | Release date: Unverified
 
   Book 6 - Apocalypse Redux - Book Six | Release date: Unverified
-
-AUTHOR: Rick Gualtieri
-SERIES: The Tome of Bill / Bill of the Dead
-  Book 1-4 - The Tome of Bill Series - Books 1-4 [Bundle] | Release date: Unverified
-
-  Book 5-8 - The Tome of Bill Series: Books 5-8 [Bundle] | Release date: Unverified
-
-  Book 9 - Strange Days | Release date: Unverified
-
-  Book 10 - Everyday Horrors | Release date: Unverified
-
-  Book 11 - Carnage À Trois | Release date: Unverified
-
-AUTHOR: Kevin Hardman
-SERIES: Kid Sensation
-  Book 1 - Sensation | Release date: Unverified
-
-  Book 1-3 - The Kid Sensation Series: Books 1-3 [Bundle] | Release date: Unverified
-
-  Book 4 - Revelation | Release date: Unverified
-
-  Book 5 - Coronation | Release date: Unverified
-
-  Book 6 - Replication | Release date: Unverified
-
-  Book 7 - Incarnation | Release date: Unverified
-
-  Book 8 - Isolation | Release date: Unverified
-
-  Book 9 - Conjuration | Release date: Unverified
-
-  Mouse's Tale | Release date: Unverified
-
-AUTHOR: John G. Hartness
-SERIES: Bubba the Monster Hunter
-  Book 1 - Scattered, Smothered, and Chunked | Release date: Unverified
-
-  Book 1-3 - Bubba the Monster Hunter: Books 1-3 [Bundle] | Release date: Unverified
-
-  Book 2 - Grits, Guns & Glory | Release date: Unverified
-
-  Book 3 - Wine, Women, & Song | Release date: Unverified
-
-  Book 4 - Monsters, Magic, & Mayhem | Release date: Unverified
-
-  Book 5 - Blood, Sweat, & Tears | Release date: Unverified
-
-AUTHOR: Drew Hayes
-SERIES: 5-Minute Sherlock
-  Book 1 - The Case of the Damaged Detective | Release date: Unverified
-
-  Book 2 - The Case of the Haunted Haunted House | Release date: Unverified
-
-  Book 3 - The Case of the Felonious Faire | Release date: Unverified
-
-AUTHOR: Drew Hayes
-SERIES: Fred, the Vampire Accountant
-  Book 1 - The Utterly Uninteresting and Unadventurous Tales of Fred, the Vampire Accountant [Dramatized adaptation] | Release date: Unverified
-
-  Book 1 - The Utterly Uninteresting and Unadventurous Tales of Fred, the Vampire Accountant | Release date: Unverified
-
-  Book 2 - Undeath and Taxes [Dramatized adaptation] | Release date: Unverified
-
-  Book 2 - Undeath and Taxes | Release date: Unverified
-
-  Book 3 - Bloody Acquisitions [Dramatized adaptation] | Release date: Unverified
-
-  Book 3 - Bloody Acquisitions | Release date: Unverified
-
-  Book 4 - The Fangs of Freelance [Dramatized adaptation] | Release date: Unverified
-
-  Book 4 - The Fangs of Freelance | Release date: Unverified
-
-  Book 5 - Deadly Assessments [Dramatized adaptation] | Release date: Unverified
-
-  Book 5 - Deadly Assessments | Release date: Unverified
-
-  Book 6 - Undeading Bells | Release date: Unverified
-
-  Book 7 - Out of House and Home [Dramatized adaptation] | Release date: Unverified
-
-  Book 7 - Out of House and Home | Release date: Unverified
-
-  Book 8 - Posthumous Education | Release date: Unverified
-
-  Book 9 - All Accounts Settled | Release date: Unverified
-
-AUTHOR: Drew Hayes
-SERIES: Super Powereds
-  Book 1 - Super Powereds: Year 1 | Release date: Unverified
-
-  Book 2 - Super Powereds: Year 2 | Release date: Unverified
-
-  Book 3 - Super Powereds: Year 3 | Release date: Unverified
-
-  Book 4 - Super Powereds: Year 4 | Release date: Unverified
-
-  Book 5 - Corpies | Release date: Unverified
-
-AUTHOR: Drew Hayes
-SERIES: Villains' Code
-  Book 1 - Forging Hephaestus | Release date: Unverified
-
-  Book 2 - Bones of the Past | Release date: Unverified
-
-  Book 2.5 - Villains' Vignettes Volume I | Release date: Unverified
-
-  Book 3 - Chilling Reflections | Release date: Unverified
-
-  Villains' Vignettes: Volume 2 | Release date: Unverified
-
-AUTHOR: Kevin Hearne
-SERIES: Iron Druid Chronicles
-  Book 1 - Hounded | Release date: Unverified
-
-  Book 2 - Hexed | Release date: Unverified
-
-  Book 3 - Hammered | Release date: Unverified
-
-  Book 4 - Tricked | Release date: Unverified
-
-  Book 5 - Trapped | Release date: Unverified
-
-  Book 6 - Hunted | Release date: Unverified
-
-  Book 7 - Shattered | Release date: Unverified
-
-  Book 8 - Staked | Release date: Unverified
-
-  Book 9 - Scourged | Release date: Unverified
 
 AUTHOR: From Hell; OppaTranslations (translator)
 SERIES: Master Hunter K
@@ -700,10 +722,6 @@ SERIES: The Way of the Shaman
   Book 6 - Shaman's Revenge | Release date: Unverified
 
   Book 7 - Clans War | Release date: Unverified
-
-AUTHOR: George R. R. Martin
-SERIES: A Song of Ice and Fire
-  Book 3 - A Storm of Swords | Release date: Unverified
 
 AUTHOR: J.R. Mathews
 SERIES: Jake's Magical Market
@@ -850,20 +868,6 @@ SERIES: Chrysalis
   Book 4 - Between a Rock and a Carapace | Release date: Unverified
 
   Book 5 - Enemy A(n)t the Gates | Release date: Unverified
-
-AUTHOR: Richard Roberts
-SERIES: Please Don't Tell My Parents
-  Book 1 - Please Don't Tell My Parents I'm a Supervillain | Release date: Unverified
-
-  Book 2 - Please Don't Tell My Parents I Blew Up the Moon | Release date: Unverified
-
-  Book 3 - Please Don't Tell My Parents I've Got Henchmen | Release date: Unverified
-
-  Book 4 - Please Don't Tell My Parents I Have a Nemesis | Release date: Unverified
-
-  Book 5 - Please Don't Tell My Parents You Believe Her | Release date: Unverified
-
-  Book 0 - I Did NOT Give That Spider Superhuman Intelligence! | Release date: Unverified
 
 AUTHOR: Rick Scott
 SERIES: Crystal Shards Online
