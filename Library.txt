@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 162; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 551 category listings.
+Categories are user-assigned: Legacy 97; Favorited 165; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 554 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -359,7 +359,7 @@ SERIES: Elemental Dungeon
 
 INCOMPLETE SERIES
 -----------------
-136 catalog entries
+139 catalog entries
 
 NARRATOR: Adam Baldwin
 
@@ -590,6 +590,16 @@ SERIES: Noobtown
   Book 8 - The War of the Noobs | Release date: Unverified
 
   Book 9 - The Noob Returns | Release date: Unverified
+
+NARRATOR: Justin Thomas James; Jeff Hays; Andrea Parsneau
+
+AUTHOR: Gregory Allanther
+SERIES: Wizard's Tower
+  Book 1 - Wizard's Tower | Release date: Unverified
+
+  Book 2 - Wizard's Tower 2 | Release date: Unverified
+
+  Book 3 - Wizard's Tower 3 | Release date: Unverified
 
 NARRATOR: Luke Daniels
 
