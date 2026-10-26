@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Touchstones, Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 165; Touchstones 20; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. Touchstones is an additional listing of absolute favorites, copied from Favorited without removing existing listings. These categories overlap; there are 406 unique source entries and 574 category listings.
+Categories are user-assigned: Legacy 97; Favorited 165; Touchstones 28; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. Touchstones is an additional listing of absolute favorites, copied from Favorited without removing existing listings. These categories overlap; there are 406 unique source entries and 582 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -781,7 +781,15 @@ COMPLETE SERIES/NOVEL
 
 INCOMPLETE SERIES
 -----------------
-20 catalog entries
+28 catalog entries
+
+NARRATOR: Andrea Parsneau
+
+AUTHOR: pirateaba
+SERIES: Singer of Terandria
+  Book 1 - Gravesong | Release date: Unverified
+
+  Book 2 - Huntsong | Release date: Unverified
 
 NARRATOR: Daniel Wisniewski; Jessica Threet
 
@@ -808,6 +816,14 @@ SERIES: Contractors
   Book 1 - Contractor | Release date: Unverified
 
   Book 2 - Prisoner | Release date: Unverified
+
+AUTHOR: Xander Boyce
+SERIES: Red Mage
+  Book 1 - Advent | Release date: Unverified
+
+  Book 2 - Temper | Release date: Unverified
+
+  Book 3 - Fracture | Release date: Unverified
 
 NARRATOR: Nick Podehl
 
@@ -850,6 +866,16 @@ NARRATOR: Scott Aiello; Carol Monda
 AUTHOR: Drew Hayes
 SERIES: 5-Minute Sherlock
   Book 1 - The Case of the Damaged Detective | Release date: Unverified
+
+NARRATOR: Will M. Watt; Annie Ellicott; Andrea Parsneau; Jeff Hays
+
+AUTHOR: Dave Willmarth
+SERIES: Shadow Sun
+  Book 1 - Shadow Sun Survival | Release date: Unverified
+
+  Book 2 - Shadow Sun Expansion | Release date: Unverified
+
+  Book 3 - Shadow Sun Rebellion | Release date: Unverified
 
 
 EDUCATIONAL
