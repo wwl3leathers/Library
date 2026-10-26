@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 97; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 486 category listings.
+Categories are user-assigned: Legacy 97; Favorited 162; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 551 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -265,13 +265,31 @@ FAVORITED
 
 COMPLETE SERIES/NOVEL
 ---------------------
-16 catalog entries
+26 catalog entries
 
 NARRATOR: Daniel Wisniewski
 
 AUTHOR: James Haddock
 SERIES: Standalone / no series listed
   Wizard's Alley | Release date: Unverified
+
+NARRATOR: Jonathan Yen
+
+AUTHOR: Vasily Mahanenko
+SERIES: The Way of the Shaman
+  Book 1 - Survival Quest | Release date: Unverified
+
+  Book 2 - The Kartoss Gambit | Release date: Unverified
+
+  Book 3 - The Secret of the Dark Forest | Release date: Unverified
+
+  Book 4 - The Phantom Castle | Release date: Unverified
+
+  Book 5 - The Karmadont Chess Set | Release date: Unverified
+
+  Book 6 - Shaman's Revenge | Release date: Unverified
+
+  Book 7 - Clans War | Release date: Unverified
 
 NARRATOR: Justin Thomas James; Jeff Hays; Annie Ellicott
 
@@ -303,6 +321,16 @@ SERIES: Super Powereds
 
   Book 5 - Corpies | Release date: Unverified
 
+NARRATOR: Steve Campbell
+
+AUTHOR: Cameron Milan
+SERIES: Towers of Heaven
+  Book 1 - Towers of Heaven: Book 1 | Release date: Unverified
+
+  Book 2 - Towers of Heaven: Book 2 | Release date: Unverified
+
+  Book 3 - Towers of Heaven: Book 3 | Release date: Unverified
+
 NARRATOR: Travis Baldree
 
 AUTHOR: From Hell; OppaTranslations (translator)
@@ -331,7 +359,19 @@ SERIES: Elemental Dungeon
 
 INCOMPLETE SERIES
 -----------------
-81 catalog entries
+136 catalog entries
+
+NARRATOR: Adam Baldwin
+
+AUTHOR: Larry Correia
+SERIES: The Adventures of Tom Stranger, Interdimensional Insurance Agent
+  The Adventures of Tom Stranger, Interdimensional Insurance Agent | Release date: Unverified
+
+NARRATOR: Adam Baldwin; Larry Correia
+
+AUTHOR: Larry Correia
+SERIES: The Adventures of Tom Stranger, Interdimensional Insurance Agent
+  #1 in Customer Service: The Complete Adventures of Tom Stranger | Release date: Unverified
 
 NARRATOR: Adam Verner
 
@@ -373,6 +413,38 @@ SERIES: Singer of Terandria
 
   Book 2 - Huntsong | Release date: Unverified
 
+AUTHOR: pirateaba
+SERIES: The Wandering Inn
+  Book 1 - The Wandering Inn | Release date: Unverified
+
+  Book 2 - Fae and Fare | Release date: Unverified
+
+  Book 3 - Flowers of Esthelm | Release date: Unverified
+
+  Book 4 - Winter Solstice | Release date: Unverified
+
+  Book 5 - The Last Light | Release date: Unverified
+
+  Book 6 - The General of Izril | Release date: Unverified
+
+  Book 7 - Rains of Liscor | Release date: Unverified
+
+  Book 8 - Blood of Liscor | Release date: Unverified
+
+  Book 9 - Tears of Liscor | Release date: Unverified
+
+  Book 10 - The Wind Runner | Release date: Unverified
+
+  Book 11 - The Titan of Baleros | Release date: Unverified
+
+  Book 12 - The Witch of Webs | Release date: Unverified
+
+  Book 13 - The Empress of Beasts | Release date: Unverified
+
+  Book 14 - Hell's Wardens | Release date: Unverified
+
+  Book 15 - Garden of Sanctuary | Release date: Unverified
+
 NARRATOR: Daniel Wisniewski; Jessica Threet
 
 AUTHOR: Dave Willmarth
@@ -393,6 +465,22 @@ SERIES: Accidental Healer
 
 NARRATOR: Eric Michael Summerer
 
+AUTHOR: Michael Atamanov
+SERIES: The Dark Herbalist
+  Book 1 - Video Game Plotline Tester | Release date: Unverified
+
+AUTHOR: Michael Atamanov; Andrew Schmitt (translator)
+SERIES: The Dark Herbalist
+  Book 2 - Stay on the Wing | Release date: Unverified
+
+AUTHOR: Michael Atamanov
+SERIES: The Dark Herbalist
+  Book 3 - A Trap for the Potentate | Release date: Unverified
+
+AUTHOR: Michael Atamanov; Andrew Schmitt (translator)
+SERIES: The Dark Herbalist
+  Book 4 - Finding a Body | Release date: Unverified
+
 AUTHOR: Rick Scott
 SERIES: Crystal Shards Online
   Book 1 - Dodge Tank | Release date: Unverified
@@ -404,6 +492,18 @@ SERIES: Crystal Shards Online
   Book 4 - Gun Blade | Release date: Unverified
 
   Book 5 - Goblin Queen | Release date: Unverified
+
+NARRATOR: Erin Bennett
+
+AUTHOR: pirateaba
+SERIES: The Wandering Inn
+  Book 16 - King of Duels | Release date: Unverified
+
+  Book 17 - Lady of Fire | Release date: Unverified
+
+  Book 18 - Archmage's Ire | Release date: Unverified
+
+  Book 19 - Couriers Outbound | Release date: Unverified
 
 NARRATOR: Garrett Michael Brown
 
@@ -436,6 +536,12 @@ SERIES: Dungeon Crawler Carl
   Book 5 - The Butcher's Masquerade | Release date: Unverified
 
   Book 8 - A Parade of Horribles | Release date: Unverified
+
+AUTHOR: P.A. Parsons
+SERIES: The Legends of Arenia
+  Book 1 - Arrival | Release date: Unverified
+
+  Book 2 - Discovery | Release date: Unverified
 
 NARRATOR: Jeff Hays; Patrick Warburton; Travis Baldree; Annie Ellicott
 
@@ -500,6 +606,70 @@ SERIES: Red Mage
   Book 2 - Temper | Release date: Unverified
 
   Book 3 - Fracture | Release date: Unverified
+
+NARRATOR: Neil Hellegers
+
+AUTHOR: Eric Ugland
+SERIES: The Bad Guys
+  Book 1 - Scamps & Scoundrels | Release date: Unverified
+
+  Book 2 - Second Story Man | Release date: Unverified
+
+  Book 3 - Skull and Thrones | Release date: Unverified
+
+  Book 4 - War of the Posers | Release date: Unverified
+
+  Book 5 - Seas the Day | Release date: Unverified
+
+  Book 6 - High Gloom | Release date: Unverified
+
+  Book 7 - Back to One | Release date: Unverified
+
+  Book 8 - Trick of the Night | Release date: Unverified
+
+  Book 9 - Darktown Funk | Release date: Unverified
+
+  Book 10 - On a Throne of Lies | Release date: Unverified
+
+  Book 11 - 2 Lies, 2 Thrones | Release date: Unverified
+
+AUTHOR: Eric Ugland
+SERIES: The Good Guys
+  Book 1 - One More Last Time | Release date: Unverified
+
+  Book 2 - Heir Today, Pawn Tomorrow | Release date: Unverified
+
+  Book 3 - Dungeon Mauling | Release date: Unverified
+
+  Book 4 - Four: The Loot | Release date: Unverified
+
+  Book 5 - Dukes and Ladders | Release date: Unverified
+
+  Book 6 - Home, Siege Home | Release date: Unverified
+
+  Book 7 - The Bare Hunt | Release date: Unverified
+
+  Book 8 - Eastbound and Town | Release date: Unverified
+
+  Book 9 - Four Beheadings and a Funeral | Release date: Unverified
+
+  Book 10 - Eat, Slay, Love | Release date: Unverified
+
+  Book 11 - Killing Them Awfully | Release date: Unverified
+
+  Book 12 - Wild Wild Quest | Release date: Unverified
+
+  Book 13 - Flex in the City | Release date: Unverified
+
+  Book 14 - Of Slicing Men | Release date: Unverified
+
+  Book 15 - Bad to the Throne | Release date: Unverified
+
+  Book 16 - One Man's Laughter | Release date: Unverified
+
+AUTHOR: Eric Ugland
+SERIES: The Grim Guys
+  Book 1 - Press Start | Release date: Unverified
 
 NARRATOR: Nick Flesher
 
