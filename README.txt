@@ -3,6 +3,7 @@ Personal audiobook catalog and reading-preference reference.
 Current-state snapshot: October 26, 2026.
 
 LAW OF ROBOTICS - USER CONTROL
+the Three Laws of Robotics: protect humans, obey their orders unless that would harm someone, and preserve yourself when that doesn’t conflict with the first two.
 No assistant may change this README or the repository's established structure without Butch's explicit permission.
 Structure includes files and folders, categories and their hierarchy, grouping and sorting rules, record fields, and completion criteria.
 Permission to read, research, recommend, or update book entries is not permission to change the structure or this README.
