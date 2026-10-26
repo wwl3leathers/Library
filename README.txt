@@ -2,7 +2,7 @@ LIBRARY
 
 Personal book catalog. Text documents only.
 
-Library.txt contains all 406 entries: Legacy (97), Favorited (97), Educational (3), Urban Fantasy/superhero (60), Fantasy/escape (229).
+Library.txt contains all 406 entries: Legacy (97), Favorited (162), Educational (3), Urban Fantasy/superhero (60), Fantasy/escape (229).
 Favorited and Fantasy/escape are divided into Complete Series/Novel and Incomplete Series, then grouped by narrator, author, series, book number, title, and release date.
 Other categories are sorted by author, series, book number, title, and release date.
 Audiobook release dates are unverified because the source omitted them.
@@ -48,7 +48,7 @@ Complete Series/Novel requires BOTH a finished story and the full set in the use
 Missing volumes, ongoing series, and any doubtful completion or ownership case belong in Incomplete Series. No separate missing-volume flags are added.
 An Incomplete placement is not automatically a statement that the author is actively writing. A published series may be finished while this collection remains incomplete.
 Ownership coverage is checked against the user's 406 pasted Audible entries. Future acquisitions may change these placements.
-Favorited: Complete Series/Novel 16; Incomplete Series 81.
+Favorited: Complete Series/Novel 26; Incomplete Series 136.
 Fantasy/escape: Complete Series/Novel 23; Incomplete Series 206.
 
 COMPLETION REFERENCE NOTES
@@ -123,3 +123,7 @@ Current totals: Favorited 78 (Complete Series/Novel 13; Incomplete Series 65); F
 FAVORITE SELECTIONS - October 26, 2026
 Added Red Mage; Shadow Sun; Singer of Terandria; Spacemage Chronicle; Sylver Seeker; System Universe. All remain in Fantasy/escape with existing narrator groupings and completion placements.
 Current totals: Favorited 97 (Complete Series/Novel 16; Incomplete Series 81); Fantasy/escape 229. There are 406 unique source entries and 486 category listings, with 80 entries shared between Favorited and Fantasy/escape.
+
+FAVORITE SELECTIONS - October 26, 2026
+Added all nine selected series: The Adventures of Tom Stranger, Interdimensional Insurance Agent; The Bad Guys; The Dark Herbalist; The Good Guys; The Grim Guys; The Legends of Arenia; The Wandering Inn; The Way of the Shaman; Towers of Heaven. All remain in Fantasy/escape with existing narrator groupings and completion placements.
+Current totals: Favorited 162 (Complete Series/Novel 26; Incomplete Series 136); Fantasy/escape 229. There are 406 unique source entries and 551 category listings, with 145 entries shared between Favorited and Fantasy/escape.
