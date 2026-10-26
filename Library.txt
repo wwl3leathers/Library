@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Touchstones, Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 165; Touchstones 68; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. Touchstones is an additional listing of absolute favorites, copied from Favorited without removing existing listings. These categories overlap; there are 406 unique source entries and 622 category listings.
+Categories are user-assigned: Legacy 97; Favorited 165; Touchstones 99; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. Touchstones is an additional listing of absolute favorites, copied from Favorited without removing existing listings. These categories overlap; there are 406 unique source entries and 653 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -777,7 +777,25 @@ TOUCHSTONES
 
 COMPLETE SERIES/NOVEL
 ---------------------
-8 catalog entries
+15 catalog entries
+
+NARRATOR: Jonathan Yen
+
+AUTHOR: Vasily Mahanenko
+SERIES: The Way of the Shaman
+  Book 1 - Survival Quest | Release date: Unverified
+
+  Book 2 - The Kartoss Gambit | Release date: Unverified
+
+  Book 3 - The Secret of the Dark Forest | Release date: Unverified
+
+  Book 4 - The Phantom Castle | Release date: Unverified
+
+  Book 5 - The Karmadont Chess Set | Release date: Unverified
+
+  Book 6 - Shaman's Revenge | Release date: Unverified
+
+  Book 7 - Clans War | Release date: Unverified
 
 NARRATOR: Kevin T. Collins
 
@@ -805,7 +823,7 @@ SERIES: Super Powereds
 
 INCOMPLETE SERIES
 -----------------
-60 catalog entries
+84 catalog entries
 
 NARRATOR: Adam Baldwin
 
@@ -819,6 +837,20 @@ AUTHOR: Larry Correia
 SERIES: The Adventures of Tom Stranger, Interdimensional Insurance Agent
   #1 in Customer Service: The Complete Adventures of Tom Stranger | Release date: Unverified
 
+NARRATOR: Amy Landon
+
+AUTHOR: Drew Hayes
+SERIES: Villains' Code
+  Book 1 - Forging Hephaestus | Release date: Unverified
+
+  Book 2 - Bones of the Past | Release date: Unverified
+
+  Book 2.5 - Villains' Vignettes Volume I | Release date: Unverified
+
+  Book 3 - Chilling Reflections | Release date: Unverified
+
+  Villains' Vignettes: Volume 2 | Release date: Unverified
+
 NARRATOR: Andrea Parsneau
 
 AUTHOR: pirateaba
@@ -826,6 +858,38 @@ SERIES: Singer of Terandria
   Book 1 - Gravesong | Release date: Unverified
 
   Book 2 - Huntsong | Release date: Unverified
+
+AUTHOR: pirateaba
+SERIES: The Wandering Inn
+  Book 1 - The Wandering Inn | Release date: Unverified
+
+  Book 2 - Fae and Fare | Release date: Unverified
+
+  Book 3 - Flowers of Esthelm | Release date: Unverified
+
+  Book 4 - Winter Solstice | Release date: Unverified
+
+  Book 5 - The Last Light | Release date: Unverified
+
+  Book 6 - The General of Izril | Release date: Unverified
+
+  Book 7 - Rains of Liscor | Release date: Unverified
+
+  Book 8 - Blood of Liscor | Release date: Unverified
+
+  Book 9 - Tears of Liscor | Release date: Unverified
+
+  Book 10 - The Wind Runner | Release date: Unverified
+
+  Book 11 - The Titan of Baleros | Release date: Unverified
+
+  Book 12 - The Witch of Webs | Release date: Unverified
+
+  Book 13 - The Empress of Beasts | Release date: Unverified
+
+  Book 14 - Hell's Wardens | Release date: Unverified
+
+  Book 15 - Garden of Sanctuary | Release date: Unverified
 
 NARRATOR: Daniel Wisniewski; Jessica Threet
 
@@ -844,6 +908,18 @@ NARRATOR: Derek Austin
 AUTHOR: Austyn Vickers
 SERIES: Accidental Healer
   Book 1 - Accidental Healer | Release date: Unverified
+
+NARRATOR: Erin Bennett
+
+AUTHOR: pirateaba
+SERIES: The Wandering Inn
+  Book 16 - King of Duels | Release date: Unverified
+
+  Book 17 - Lady of Fire | Release date: Unverified
+
+  Book 18 - Archmage's Ire | Release date: Unverified
+
+  Book 19 - Couriers Outbound | Release date: Unverified
 
 NARRATOR: Jeff Hays
 
