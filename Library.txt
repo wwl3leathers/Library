@@ -1,10 +1,10 @@
 LIBRARY
 Catalog of 406 Audible library entries supplied October 25, 2026.
 
-ORDER: Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
+ORDER: Touchstones, Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 165; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 554 category listings.
+Categories are user-assigned: Legacy 97; Favorited 165; Touchstones 20; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. Touchstones is an additional listing of absolute favorites, copied from Favorited without removing existing listings. These categories overlap; there are 406 unique source entries and 574 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -770,6 +770,86 @@ SERIES: Shadow Sun
   Book 2 - Shadow Sun Expansion | Release date: Unverified
 
   Book 3 - Shadow Sun Rebellion | Release date: Unverified
+
+
+TOUCHSTONES
+===========
+
+COMPLETE SERIES/NOVEL
+---------------------
+0 catalog entries
+
+INCOMPLETE SERIES
+-----------------
+20 catalog entries
+
+NARRATOR: Daniel Wisniewski; Jessica Threet
+
+AUTHOR: Dave Willmarth
+SERIES: Battleborne
+  Book 1 - Battleborne | Release date: Unverified
+
+  Book 2 - Wrack and Ruin | Release date: Unverified
+
+  Book 3 - Dungeons & Guardians | Release date: Unverified
+
+  Book 4 - Dungeon Master | Release date: Unverified
+
+NARRATOR: Derek Austin
+
+AUTHOR: Austyn Vickers
+SERIES: Accidental Healer
+  Book 1 - Accidental Healer | Release date: Unverified
+
+NARRATOR: Luke Daniels
+
+AUTHOR: Andrew Ball
+SERIES: Contractors
+  Book 1 - Contractor | Release date: Unverified
+
+  Book 2 - Prisoner | Release date: Unverified
+
+NARRATOR: Nick Podehl
+
+AUTHOR: Aleron Kong
+SERIES: Chaos Seeds (The Land)
+  Book 1 - The Land: Founding | Release date: Unverified
+
+  Book 2 - The Land: Forging | Release date: Unverified
+
+  Book 3 - The Land: Alliances | Release date: Unverified
+
+  Book 4 - The Land: Catacombs | Release date: Unverified
+
+  Book 5 - The Land: Swarm | Release date: Unverified
+
+  Book 6 - The Land: Raiders | Release date: Unverified
+
+  Book 7 - The Land: Predators | Release date: Unverified
+
+  Book 8 - The Land: Monsters | Release date: Unverified
+
+NARRATOR: Ramon De Ocampo
+
+AUTHOR: Blaise Corvin; Outspan Foster; Blaise Corvin (foreword)
+SERIES: Anthem of Infinity
+  Book 1 - First Song | Release date: Unverified
+
+  Book 2 - First Song, Book Two | Release date: Unverified
+
+NARRATOR: Scott Aiello
+
+AUTHOR: Drew Hayes
+SERIES: 5-Minute Sherlock
+  Book 2 - The Case of the Haunted Haunted House | Release date: Unverified
+
+  Book 3 - The Case of the Felonious Faire | Release date: Unverified
+
+NARRATOR: Scott Aiello; Carol Monda
+
+AUTHOR: Drew Hayes
+SERIES: 5-Minute Sherlock
+  Book 1 - The Case of the Damaged Detective | Release date: Unverified
 
 
 EDUCATIONAL
