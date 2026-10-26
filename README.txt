@@ -2,7 +2,7 @@ LIBRARY
 
 Personal book catalog. Text documents only.
 
-Library.txt contains all 406 entries: Legacy (97), Favorited (165), Educational (3), Urban Fantasy/superhero (60), Fantasy/escape (229).
+Library.txt contains 406 unique Audible source entries across overlapping categories: Legacy (97), Favorited (165), Touchstones (20), Educational (3), Urban Fantasy/superhero (60), and Fantasy/escape (229). There are 574 category listings.
 Favorited and Fantasy/escape are divided into Complete Series/Novel and Incomplete Series, then grouped by narrator, author, series, book number, title, and release date.
 Other categories are sorted by author, series, book number, title, and release date.
 Audiobook release dates are unverified because the source omitted them.
@@ -132,3 +132,10 @@ FAVORITE SELECTIONS - October 26, 2026
 Added Wizard's Tower (3 entries), preserving Fantasy/escape listings, narrator grouping, and Incomplete status. Ultimate Level 1 was not selected.
 The nine-at-a-time review of all 56 Fantasy/escape series is complete.
 Current totals: Favorited 165 (Complete Series/Novel 26; Incomplete Series 139); Fantasy/escape 229. There are 406 unique source entries and 554 category listings, with 148 entries shared between Favorited and Fantasy/escape.
+
+TOUCHSTONES - October 26, 2026
+Absolute reread favorites. An additional listing; existing categories remain unchanged.
+Uses the same completion sections and narrator, author, series, book-order, and release-date fields as Favorited.
+First selections: 5-Minute Sherlock; Accidental Healer; Anthem of Infinity; Battleborne; Chaos Seeds (The Land); Contractors.
+Touchstones: 20 entries; Complete Series/Novel 0; Incomplete Series 20.
+All 20 remain in Favorited, and 15 also remain in Fantasy/escape. There are 406 unique source entries and 574 category listings.
