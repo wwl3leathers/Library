@@ -3,7 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 17; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Categories are user-assigned: Legacy 97; Favorited 25; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 414 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -294,7 +295,7 @@ SERIES: Super Powereds
 
 INCOMPLETE SERIES
 -----------------
-10 catalog entries
+18 catalog entries
 
 NARRATOR: Amy Landon
 
@@ -309,6 +310,18 @@ SERIES: Villains' Code
   Book 3 - Chilling Reflections | Release date: Unverified
 
   Villains' Vignettes: Volume 2 | Release date: Unverified
+
+NARRATOR: Daniel Wisniewski; Jessica Threet
+
+AUTHOR: Dave Willmarth
+SERIES: Battleborne
+  Book 1 - Battleborne | Release date: Unverified
+
+  Book 2 - Wrack and Ruin | Release date: Unverified
+
+  Book 3 - Dungeons & Guardians | Release date: Unverified
+
+  Book 4 - Dungeon Master | Release date: Unverified
 
 NARRATOR: Luke Daniels
 
@@ -331,6 +344,18 @@ NARRATOR: Scott Aiello; Carol Monda
 AUTHOR: Drew Hayes
 SERIES: 5-Minute Sherlock
   Book 1 - The Case of the Damaged Detective | Release date: Unverified
+
+NARRATOR: Travis Baldree
+
+AUTHOR: Casualfarmer
+SERIES: Beware of Chicken
+  Book 1 - Beware of Chicken | Release date: Unverified
+
+  Book 2 - Beware of Chicken 2 | Release date: Unverified
+
+  Book 3 - Beware of Chicken 3 | Release date: Unverified
+
+  Book 4 - Beware of Chicken 4 | Release date: Unverified
 
 
 EDUCATIONAL
