@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Touchstones, Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 165; Touchstones 28; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. Touchstones is an additional listing of absolute favorites, copied from Favorited without removing existing listings. These categories overlap; there are 406 unique source entries and 582 category listings.
+Categories are user-assigned: Legacy 97; Favorited 165; Touchstones 68; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. Touchstones is an additional listing of absolute favorites, copied from Favorited without removing existing listings. These categories overlap; there are 406 unique source entries and 622 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -777,11 +777,47 @@ TOUCHSTONES
 
 COMPLETE SERIES/NOVEL
 ---------------------
-0 catalog entries
+8 catalog entries
+
+NARRATOR: Kevin T. Collins
+
+AUTHOR: Timothy Ellis
+SERIES: Spacemage Chronicle
+  Book 1 - Yesterday's Spacemage | Release date: Unverified
+
+  Book 2 - Today's Spacemage | Release date: Unverified
+
+  Book 3 - Tomorrow's Spacemage | Release date: Unverified
+
+NARRATOR: Kyle McCarley
+
+AUTHOR: Drew Hayes
+SERIES: Super Powereds
+  Book 1 - Super Powereds: Year 1 | Release date: Unverified
+
+  Book 2 - Super Powereds: Year 2 | Release date: Unverified
+
+  Book 3 - Super Powereds: Year 3 | Release date: Unverified
+
+  Book 4 - Super Powereds: Year 4 | Release date: Unverified
+
+  Book 5 - Corpies | Release date: Unverified
 
 INCOMPLETE SERIES
 -----------------
-28 catalog entries
+60 catalog entries
+
+NARRATOR: Adam Baldwin
+
+AUTHOR: Larry Correia
+SERIES: The Adventures of Tom Stranger, Interdimensional Insurance Agent
+  The Adventures of Tom Stranger, Interdimensional Insurance Agent | Release date: Unverified
+
+NARRATOR: Adam Baldwin; Larry Correia
+
+AUTHOR: Larry Correia
+SERIES: The Adventures of Tom Stranger, Interdimensional Insurance Agent
+  #1 in Customer Service: The Complete Adventures of Tom Stranger | Release date: Unverified
 
 NARRATOR: Andrea Parsneau
 
@@ -809,6 +845,14 @@ AUTHOR: Austyn Vickers
 SERIES: Accidental Healer
   Book 1 - Accidental Healer | Release date: Unverified
 
+NARRATOR: Jeff Hays
+
+AUTHOR: P.A. Parsons
+SERIES: The Legends of Arenia
+  Book 1 - Arrival | Release date: Unverified
+
+  Book 2 - Discovery | Release date: Unverified
+
 NARRATOR: Luke Daniels
 
 AUTHOR: Andrew Ball
@@ -824,6 +868,70 @@ SERIES: Red Mage
   Book 2 - Temper | Release date: Unverified
 
   Book 3 - Fracture | Release date: Unverified
+
+NARRATOR: Neil Hellegers
+
+AUTHOR: Eric Ugland
+SERIES: The Bad Guys
+  Book 1 - Scamps & Scoundrels | Release date: Unverified
+
+  Book 2 - Second Story Man | Release date: Unverified
+
+  Book 3 - Skull and Thrones | Release date: Unverified
+
+  Book 4 - War of the Posers | Release date: Unverified
+
+  Book 5 - Seas the Day | Release date: Unverified
+
+  Book 6 - High Gloom | Release date: Unverified
+
+  Book 7 - Back to One | Release date: Unverified
+
+  Book 8 - Trick of the Night | Release date: Unverified
+
+  Book 9 - Darktown Funk | Release date: Unverified
+
+  Book 10 - On a Throne of Lies | Release date: Unverified
+
+  Book 11 - 2 Lies, 2 Thrones | Release date: Unverified
+
+AUTHOR: Eric Ugland
+SERIES: The Good Guys
+  Book 1 - One More Last Time | Release date: Unverified
+
+  Book 2 - Heir Today, Pawn Tomorrow | Release date: Unverified
+
+  Book 3 - Dungeon Mauling | Release date: Unverified
+
+  Book 4 - Four: The Loot | Release date: Unverified
+
+  Book 5 - Dukes and Ladders | Release date: Unverified
+
+  Book 6 - Home, Siege Home | Release date: Unverified
+
+  Book 7 - The Bare Hunt | Release date: Unverified
+
+  Book 8 - Eastbound and Town | Release date: Unverified
+
+  Book 9 - Four Beheadings and a Funeral | Release date: Unverified
+
+  Book 10 - Eat, Slay, Love | Release date: Unverified
+
+  Book 11 - Killing Them Awfully | Release date: Unverified
+
+  Book 12 - Wild Wild Quest | Release date: Unverified
+
+  Book 13 - Flex in the City | Release date: Unverified
+
+  Book 14 - Of Slicing Men | Release date: Unverified
+
+  Book 15 - Bad to the Throne | Release date: Unverified
+
+  Book 16 - One Man's Laughter | Release date: Unverified
+
+AUTHOR: Eric Ugland
+SERIES: The Grim Guys
+  Book 1 - Press Start | Release date: Unverified
 
 NARRATOR: Nick Podehl
 
