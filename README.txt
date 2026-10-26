@@ -2,7 +2,7 @@ LIBRARY
 
 Personal book catalog. Text documents only.
 
-Library.txt contains all 406 entries: Legacy (92), Favorited (22), Educational (3), Urban Fantasy/superhero (60), Unassigned (229).
+Library.txt contains all 406 entries: Legacy (92), Favorited (22), Educational (3), Urban Fantasy/superhero (60), Fantasy/escape (229).
 Entries are sorted by author, series, book number, title, and release date.
 Audiobook release dates are unverified because the source omitted them.
 
@@ -28,3 +28,7 @@ Legacy: added A Storm of Swords.
 Favorited: added 5-Minute Sherlock; Super Powereds (including Corpies); Villains' Code (including Villains' Vignettes); Contractors.
 Urban Fantasy/superhero: Super Sales on Super Heroes; Renegade X; Monster Hunter; The Tome of Bill / Bill of the Dead; Kid Sensation; Bubba the Monster Hunter; Fred, the Vampire Accountant; Iron Druid Chronicles; Please Don't Tell My Parents.
 This category contains the remaining urban fantasy and superhero series; named Favorited exceptions take precedence.
+
+CATEGORY UPDATE - October 26, 2026
+All remaining 229 Unassigned entries are now categorized as Fantasy/escape.
+No entries remain unassigned.
