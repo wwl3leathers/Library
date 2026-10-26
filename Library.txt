@@ -3,7 +3,7 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Author (surname where applicable), series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 84; Favorited 7; Educational 3; Unassigned 312.
+Categories are user-assigned: Legacy 91; Favorited 7; Educational 3; Unassigned 305.
 Alternate recordings and bundles remain separate entries.
 
 LEGACY
@@ -109,6 +109,20 @@ AUTHOR: Jackson MacKenzie; Shannon Thomas (introduction)
 SERIES: Standalone / no series listed
   Whole Again: Healing Your Heart and Rediscovering Your True Self After Toxic Relationships and Emotional Abuse | Release date: Unverified
 
+AUTHOR: Andy McDermott
+SERIES: Wilde/Chase
+  Book 1 - The Hunt for Atlantis | Release date: Unverified
+
+AUTHOR: Stephenie Meyer
+SERIES: The Twilight Saga
+  Book 1 - Twilight | Release date: Unverified
+
+  Book 2 - New Moon | Release date: Unverified
+
+  Book 3 - Eclipse | Release date: Unverified
+
+  Book 4 - Breaking Dawn | Release date: Unverified
+
 AUTHOR: J.K. Rowling
 SERIES: Harry Potter / Wizarding World Collection
   Book 1 - Harry Potter and the Sorcerer's Stone | Release date: Unverified
@@ -210,6 +224,12 @@ SERIES: The Stormlight Archive / The Cosmere
 AUTHOR: Jeff Sproul
 SERIES: Sigil Online
   Book 1 - Sigil Online: Paragons | Release date: Unverified
+
+AUTHOR: J. R. R. Tolkien
+SERIES: The Lord of the Rings
+  Book 1 - The Fellowship of the Ring | Release date: Unverified
+
+  Book 2 - The Two Towers | Release date: Unverified
 
 
 FAVORITED
@@ -691,10 +711,6 @@ SERIES: Jake's Magical Market
 
   Book 2 - Jake's Magical Market 2: A Trek Through Time | Release date: Unverified
 
-AUTHOR: Andy McDermott
-SERIES: Wilde/Chase
-  Book 1 - The Hunt for Atlantis | Release date: Unverified
-
 AUTHOR: R.A. Mejia; Charles Dean
 SERIES: Apocalypse: Regression
   Book 1 - Apocalypse: Regression, Book 1 | Release date: Unverified
@@ -710,16 +726,6 @@ SERIES: Project Alpha
   Book 1 - Project Alpha: Book 1 | Release date: Unverified
 
   Book 2 - Project Alpha: Book 2 | Release date: Unverified
-
-AUTHOR: Stephenie Meyer
-SERIES: The Twilight Saga
-  Book 1 - Twilight | Release date: Unverified
-
-  Book 2 - New Moon | Release date: Unverified
-
-  Book 3 - Eclipse | Release date: Unverified
-
-  Book 4 - Breaking Dawn | Release date: Unverified
 
 AUTHOR: Cameron Milan
 SERIES: Towers of Heaven
@@ -924,12 +930,6 @@ SERIES: System Universe
 AUTHOR: Dustin Tigner
 SERIES: Dungeon Runner
   Book 1 - Dungeon Runner 1 | Release date: Unverified
-
-AUTHOR: J. R. R. Tolkien
-SERIES: The Lord of the Rings
-  Book 1 - The Fellowship of the Ring | Release date: Unverified
-
-  Book 2 - The Two Towers | Release date: Unverified
 
 AUTHOR: Eric Ugland
 SERIES: The Bad Guys
