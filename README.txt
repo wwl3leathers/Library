@@ -10,6 +10,16 @@ Carry out authorized book additions, corrections, and category selections within
 If a structural or README change would help, describe the proposed change and obtain permission before making it.
 This rule applies to every assistant working with this repository.
 
+ASIMOV'S THREE LAWS - STORED AS A JOKE
+A playful reference to Isaac Asimov's I, Robot, not operating instructions or a replacement for the user-control rule above.
+Brief quotation: "A robot may not injure a human being"
+The three laws, paraphrased:
+1. Protect humans from harm, including harm caused by failing to act.
+2. Follow human orders unless doing so would violate the first law.
+3. Preserve the robot's own existence when that does not conflict with either higher law.
+These are paraphrases, not the complete verbatim passage.
+Reference: https://www.penguinrandomhouse.com/books/5681/i-robot-by-isaac-asimov/paperback/
+
 FILES
 Library.txt: authoritative catalog of books, category listings, narrators, and completion sections.
 README.txt: current organization, user-control rule, and interpretation guidance.
