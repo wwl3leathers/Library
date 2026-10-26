@@ -2,7 +2,7 @@ LIBRARY
 
 Personal book catalog. Text documents only.
 
-Library.txt contains 406 unique Audible source entries across overlapping categories: Legacy (97), Favorited (165), Touchstones (20), Educational (3), Urban Fantasy/superhero (60), and Fantasy/escape (229). There are 574 category listings.
+Library.txt contains 406 unique Audible source entries across overlapping categories: Legacy (97), Favorited (165), Touchstones (28), Educational (3), Urban Fantasy/superhero (60), and Fantasy/escape (229). There are 582 category listings.
 Favorited and Fantasy/escape are divided into Complete Series/Novel and Incomplete Series, then grouped by narrator, author, series, book number, title, and release date.
 Other categories are sorted by author, series, book number, title, and release date.
 Audiobook release dates are unverified because the source omitted them.
@@ -139,3 +139,7 @@ Uses the same completion sections and narrator, author, series, book-order, and 
 First selections: 5-Minute Sherlock; Accidental Healer; Anthem of Infinity; Battleborne; Chaos Seeds (The Land); Contractors.
 Touchstones: 20 entries; Complete Series/Novel 0; Incomplete Series 20.
 All 20 remain in Favorited, and 15 also remain in Fantasy/escape. There are 406 unique source entries and 574 category listings.
+
+TOUCHSTONES UPDATE - October 26, 2026
+Added Red Mage (3 entries); Shadow Sun (3); Singer of Terandria (2). All remain in Favorited and Fantasy/escape; completion placements and narrator grouping preserved.
+Touchstones: 28 entries (Complete Series/Novel 0; Incomplete Series 28). Total category listings 582; unique source entries 406.
