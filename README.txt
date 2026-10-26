@@ -3,7 +3,8 @@ LIBRARY
 Personal book catalog. Text documents only.
 
 Library.txt contains all 406 entries: Legacy (97), Favorited (17), Educational (3), Urban Fantasy/superhero (60), Fantasy/escape (229).
-Entries are sorted by author, series, book number, title, and release date.
+Favorited and Fantasy/escape are grouped by narrator, then author, series, book number, title, and release date.
+Other categories are sorted by author, series, book number, title, and release date.
 Audiobook release dates are unverified because the source omitted them.
 
 LEGACY RULES
@@ -36,3 +37,8 @@ No entries remain unassigned.
 CATEGORY UPDATE - October 26, 2026
 Moved from Favorited to Legacy: Larry Goes to Space; The Alchemist: A Fable About Following Your Dream; The Complete Fiction of H.P. Lovecraft; Starter Villain; Dracula.
 Current totals: Legacy 97; Favorited 17; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+
+NARRATOR ORGANIZATION - October 26, 2026
+Narrator names restored from the original supplied Audible metadata for Favorited (17 entries) and Fantasy/escape (229 entries).
+Narrator names appear once per group. Multi-narrator recordings remain grouped under their listed ensemble.
+When narration changes within a series, its books appear under the respective narrator groups.
