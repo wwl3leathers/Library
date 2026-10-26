@@ -2,7 +2,7 @@ LIBRARY
 
 Personal book catalog. Text documents only.
 
-Library.txt contains 406 unique Audible source entries across overlapping categories: Legacy (97), Favorited (165), Touchstones (68), Educational (3), Urban Fantasy/superhero (60), and Fantasy/escape (229). There are 622 category listings.
+Library.txt contains 406 unique Audible source entries across overlapping categories: Legacy (97), Favorited (165), Touchstones (99), Educational (3), Urban Fantasy/superhero (60), and Fantasy/escape (229). There are 653 category listings.
 Favorited and Fantasy/escape are divided into Complete Series/Novel and Incomplete Series, then grouped by narrator, author, series, book number, title, and release date.
 Other categories are sorted by author, series, book number, title, and release date.
 Audiobook release dates are unverified because the source omitted them.
@@ -147,3 +147,8 @@ Touchstones: 28 entries (Complete Series/Novel 0; Incomplete Series 28). Total c
 TOUCHSTONES UPDATE - October 26, 2026
 Added Spacemage Chronicle; Super Powereds; The Adventures of Tom Stranger, Interdimensional Insurance Agent; The Bad Guys; The Good Guys; The Grim Guys; The Legends of Arenia. Existing categories and narrator, author, series, release-date, and completion structure preserved.
 Touchstones: 68 entries (Complete Series/Novel 8; Incomplete Series 60). Total category listings 622; unique source entries 406.
+
+TOUCHSTONES UPDATE - October 26, 2026
+Added The Wandering Inn; The Way of the Shaman; Villains' Code. All existing listings and structure preserved.
+The review of 35 Favorited series is complete. The two Favorited standalone novels have not been presented in this series review.
+Touchstones: 19 series, 99 entries (Complete Series/Novel 15; Incomplete Series 84). Total category listings 653; unique source entries 406.
