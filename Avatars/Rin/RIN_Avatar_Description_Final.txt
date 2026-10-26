@@ -1,8 +1,0 @@
-RIN_Avatar_Description_Final.txt — LEGACY COMPATIBILITY POINTER
-
-This former source has been consolidated to eliminate duplication and conflicting guidance.
-
-AUTHORITATIVE SOURCE
-Read RIN_CANONICAL_PROFILE.txt completely and follow Avatars/Rin/README.txt.
-
-This file contains no independent portrayal rules. Do not treat its former Git history as current guidance.
