@@ -2,7 +2,7 @@ LIBRARY
 
 Personal book catalog. Text documents only.
 
-Library.txt contains all 406 entries, organized into Legacy (84), Favorited (7), Educational (3), and Unassigned (312).
+Library.txt contains all 406 entries, organized into Legacy (91), Favorited (7), Educational (3), and Unassigned (305).
 Entries are sorted by author, series, book number, title, and release date.
 Audiobook release dates are unverified because the source omitted them.
 
@@ -19,3 +19,6 @@ Favorited: Larry Goes to Space; The Alchemist; Wizard's Alley; The Complete Fict
 Educational: The Listener's Bible NIV; Learn Spanish with Paul Noble for Beginners - Complete Course; How to Start a Business.
 Added to Legacy: The Cricket on the Hearth; Jack Bloodfist: Fixer; Jack Bloodfist: Freelancer; Whole Again.
 Favorited is a user-assigned category, separate from Audible's favorite flags.
+
+Added to Legacy: The Twilight Saga (4 entries); The Hunt for Atlantis (1); The Lord of the Rings (2).
+Pears and Perils was requested for Legacy but was not found among the 406 supplied entries; pending identification/addition.
