@@ -3,7 +3,7 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Author (surname where applicable), series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 92; Favorited 22; Educational 3; Urban Fantasy/superhero 60; Unassigned 229.
+Categories are user-assigned: Legacy 92; Favorited 22; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
 Alternate recordings and bundles remain separate entries.
 
 LEGACY
@@ -464,8 +464,8 @@ SERIES: Please Don't Tell My Parents
   Book 0 - I Did NOT Give That Spider Superhuman Intelligence! | Release date: Unverified
 
 
-UNASSIGNED
-==========
+FANTASY/ESCAPE
+==============
 
 AUTHOR: Gregory Allanther
 SERIES: Wizard's Tower
