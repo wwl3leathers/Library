@@ -24,6 +24,7 @@ Reference: https://www.penguinrandomhouse.com/books/5681/i-robot-by-isaac-asimov
 FILES
 Library.txt: authoritative catalog of books, category listings, narrators, and completion sections.
 README.txt: current organization, user-control rule, and interpretation guidance.
+Avatars/: canonical avatar sources, visual references, and per-avatar reading instructions.
 Git history preserves previous versions. Do not append running change logs here.
 
 CURRENT CATALOG
