@@ -2,7 +2,7 @@ LIBRARY
 
 Personal book catalog. Text documents only.
 
-Library.txt contains all 406 entries: Legacy (97), Favorited (25), Educational (3), Urban Fantasy/superhero (60), Fantasy/escape (229).
+Library.txt contains all 406 entries: Legacy (97), Favorited (52), Educational (3), Urban Fantasy/superhero (60), Fantasy/escape (229).
 Favorited and Fantasy/escape are divided into Complete Series/Novel and Incomplete Series, then grouped by narrator, author, series, book number, title, and release date.
 Other categories are sorted by author, series, book number, title, and release date.
 Audiobook release dates are unverified because the source omitted them.
@@ -48,7 +48,7 @@ Complete Series/Novel requires BOTH a finished story and the full set in the use
 Missing volumes, ongoing series, and any doubtful completion or ownership case belong in Incomplete Series. No separate missing-volume flags are added.
 An Incomplete placement is not automatically a statement that the author is actively writing. A published series may be finished while this collection remains incomplete.
 Ownership coverage is checked against the user's 406 pasted Audible entries. Future acquisitions may change these placements.
-Favorited: Complete Series/Novel 7; Incomplete Series 18.
+Favorited: Complete Series/Novel 10; Incomplete Series 42.
 Fantasy/escape: Complete Series/Novel 23; Incomplete Series 206.
 
 COMPLETION REFERENCE NOTES
@@ -107,3 +107,7 @@ FAVORITE SELECTION RULE - October 26, 2026
 New favorites selected from Fantasy/escape are additional listings; they remain in Fantasy/escape.
 Added Battleborne (4 entries) and Beware of Chicken (4 entries) to Favorited, preserving narrator, author, series, order, release-date fields, and Incomplete status.
 Current category listings: Legacy 97; Favorited 25; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229. There are 406 unique source entries and 414 listings because 8 entries occur in both Favorited and Fantasy/escape.
+
+FAVORITE SELECTIONS - October 26, 2026
+Added: Anthem of Infinity; Accidental Healer; Chaos Seeds (The Land); Crystal Shards Online; Dungeon Crawler Carl; Elemental Dungeon. All remain in Fantasy/escape, with existing completion placements and narrator groupings preserved.
+Current totals: Favorited 52 (Complete Series/Novel 10; Incomplete Series 42); Fantasy/escape 229. There are 406 unique source entries and 441 category listings, including 35 entries shared between Favorited and Fantasy/escape.
