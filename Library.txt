@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Touchstones, Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 165; Touchstones 99; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. Touchstones is an additional listing of absolute favorites, copied from Favorited without removing existing listings. These categories overlap; there are 406 unique source entries and 653 category listings.
+Categories are user-assigned: Legacy 97; Favorited 165; Touchstones 101; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. Touchstones is an additional listing of absolute favorites, copied from Favorited without removing existing listings. These categories overlap; there are 406 unique source entries and 655 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -777,7 +777,13 @@ TOUCHSTONES
 
 COMPLETE SERIES/NOVEL
 ---------------------
-15 catalog entries
+17 catalog entries
+
+NARRATOR: Daniel Wisniewski
+
+AUTHOR: James Haddock
+SERIES: Standalone / no series listed
+  Wizard's Alley | Release date: Unverified
 
 NARRATOR: Jonathan Yen
 
@@ -796,6 +802,12 @@ SERIES: The Way of the Shaman
   Book 6 - Shaman's Revenge | Release date: Unverified
 
   Book 7 - Clans War | Release date: Unverified
+
+NARRATOR: Justin Thomas James; Jeff Hays; Annie Ellicott
+
+AUTHOR: Michael R. Miller; Portal Books
+SERIES: Standalone / no series listed
+  Battle Spire: A Crafting LitRPG Book | Release date: Unverified
 
 NARRATOR: Kevin T. Collins
 
