@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 78; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 467 category listings.
+Categories are user-assigned: Legacy 97; Favorited 97; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 486 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -265,7 +265,7 @@ FAVORITED
 
 COMPLETE SERIES/NOVEL
 ---------------------
-13 catalog entries
+16 catalog entries
 
 NARRATOR: Daniel Wisniewski
 
@@ -278,6 +278,16 @@ NARRATOR: Justin Thomas James; Jeff Hays; Annie Ellicott
 AUTHOR: Michael R. Miller; Portal Books
 SERIES: Standalone / no series listed
   Battle Spire: A Crafting LitRPG Book | Release date: Unverified
+
+NARRATOR: Kevin T. Collins
+
+AUTHOR: Timothy Ellis
+SERIES: Spacemage Chronicle
+  Book 1 - Yesterday's Spacemage | Release date: Unverified
+
+  Book 2 - Today's Spacemage | Release date: Unverified
+
+  Book 3 - Tomorrow's Spacemage | Release date: Unverified
 
 NARRATOR: Kyle McCarley
 
@@ -321,7 +331,25 @@ SERIES: Elemental Dungeon
 
 INCOMPLETE SERIES
 -----------------
-65 catalog entries
+81 catalog entries
+
+NARRATOR: Adam Verner
+
+AUTHOR: SunriseCV
+SERIES: System Universe
+  Book 1 - System Change | Release date: Unverified
+
+  Book 2 - Torith | Release date: Unverified
+
+  Book 3 - Savannah | Release date: Unverified
+
+  Book 4 - Trials of Cydaria | Release date: Unverified
+
+  Book 5 - System Interference | Release date: Unverified
+
+  Book 6 - Indaria | Release date: Unverified
+
+  Book 7 - Requirements | Release date: Unverified
 
 NARRATOR: Amy Landon
 
@@ -336,6 +364,14 @@ SERIES: Villains' Code
   Book 3 - Chilling Reflections | Release date: Unverified
 
   Villains' Vignettes: Volume 2 | Release date: Unverified
+
+NARRATOR: Andrea Parsneau
+
+AUTHOR: pirateaba
+SERIES: Singer of Terandria
+  Book 1 - Gravesong | Release date: Unverified
+
+  Book 2 - Huntsong | Release date: Unverified
 
 NARRATOR: Daniel Wisniewski; Jessica Threet
 
@@ -368,6 +404,12 @@ SERIES: Crystal Shards Online
   Book 4 - Gun Blade | Release date: Unverified
 
   Book 5 - Goblin Queen | Release date: Unverified
+
+NARRATOR: Garrett Michael Brown
+
+AUTHOR: Kennit Kenway
+SERIES: Sylver Seeker
+  Book 1-4 - Sylver Seeker, Books 1-4 [Bundle] | Release date: Unverified
 
 NARRATOR: Heath Miller
 
@@ -451,6 +493,14 @@ SERIES: Contractors
 
   Book 2 - Prisoner | Release date: Unverified
 
+AUTHOR: Xander Boyce
+SERIES: Red Mage
+  Book 1 - Advent | Release date: Unverified
+
+  Book 2 - Temper | Release date: Unverified
+
+  Book 3 - Fracture | Release date: Unverified
+
 NARRATOR: Nick Flesher
 
 AUTHOR: Zathiun
@@ -530,6 +580,16 @@ SERIES: Beware of Chicken
   Book 3 - Beware of Chicken 3 | Release date: Unverified
 
   Book 4 - Beware of Chicken 4 | Release date: Unverified
+
+NARRATOR: Will M. Watt; Annie Ellicott; Andrea Parsneau; Jeff Hays
+
+AUTHOR: Dave Willmarth
+SERIES: Shadow Sun
+  Book 1 - Shadow Sun Survival | Release date: Unverified
+
+  Book 2 - Shadow Sun Expansion | Release date: Unverified
+
+  Book 3 - Shadow Sun Rebellion | Release date: Unverified
 
 
 EDUCATIONAL
