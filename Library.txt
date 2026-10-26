@@ -1,11 +1,13 @@
 LIBRARY
 Catalog of 406 Audible library entries supplied October 25, 2026.
 
-ORDER: Favorited and Fantasy/escape: narrator, author (surname where applicable), series, book number, title, release date. Other categories: author, series, book number, title, release date.
+ORDER: Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
 Categories are user-assigned: Legacy 97; Favorited 17; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
 Alternate recordings and bundles remain separate entries.
-Narrator names appear once per narrator group; ensemble recordings stay together.
+Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
+COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
+Completion divisions last checked October 26, 2026. No separate missing-volume flags are used.
 
 LEGACY
 ======
@@ -260,19 +262,9 @@ SERIES: The Lord of the Rings
 FAVORITED
 =========
 
-NARRATOR: Amy Landon
-
-AUTHOR: Drew Hayes
-SERIES: Villains' Code
-  Book 1 - Forging Hephaestus | Release date: Unverified
-
-  Book 2 - Bones of the Past | Release date: Unverified
-
-  Book 2.5 - Villains' Vignettes Volume I | Release date: Unverified
-
-  Book 3 - Chilling Reflections | Release date: Unverified
-
-  Villains' Vignettes: Volume 2 | Release date: Unverified
+COMPLETE SERIES/NOVEL
+---------------------
+7 catalog entries
 
 NARRATOR: Daniel Wisniewski
 
@@ -299,6 +291,24 @@ SERIES: Super Powereds
   Book 4 - Super Powereds: Year 4 | Release date: Unverified
 
   Book 5 - Corpies | Release date: Unverified
+
+INCOMPLETE SERIES
+-----------------
+10 catalog entries
+
+NARRATOR: Amy Landon
+
+AUTHOR: Drew Hayes
+SERIES: Villains' Code
+  Book 1 - Forging Hephaestus | Release date: Unverified
+
+  Book 2 - Bones of the Past | Release date: Unverified
+
+  Book 2.5 - Villains' Vignettes Volume I | Release date: Unverified
+
+  Book 3 - Chilling Reflections | Release date: Unverified
+
+  Villains' Vignettes: Volume 2 | Release date: Unverified
 
 NARRATOR: Luke Daniels
 
@@ -484,6 +494,94 @@ SERIES: Please Don't Tell My Parents
 FANTASY/ESCAPE
 ==============
 
+COMPLETE SERIES/NOVEL
+---------------------
+23 catalog entries
+
+NARRATOR: Daniel Wisniewski
+
+AUTHOR: Sean Oswald
+SERIES: Class Shift
+  Book 1 - Uncontrollable | Release date: Unverified
+
+  Book 2 - Unbalanced | Release date: Unverified
+
+  Book 3 - Unstoppable | Release date: Unverified
+
+NARRATOR: Jonathan Yen
+
+AUTHOR: Vasily Mahanenko
+SERIES: The Way of the Shaman
+  Book 1 - Survival Quest | Release date: Unverified
+
+  Book 2 - The Kartoss Gambit | Release date: Unverified
+
+  Book 3 - The Secret of the Dark Forest | Release date: Unverified
+
+  Book 4 - The Phantom Castle | Release date: Unverified
+
+  Book 5 - The Karmadont Chess Set | Release date: Unverified
+
+  Book 6 - Shaman's Revenge | Release date: Unverified
+
+  Book 7 - Clans War | Release date: Unverified
+
+NARRATOR: Kevin T. Collins
+
+AUTHOR: Timothy Ellis
+SERIES: Spacemage Chronicle
+  Book 1 - Yesterday's Spacemage | Release date: Unverified
+
+  Book 2 - Today's Spacemage | Release date: Unverified
+
+  Book 3 - Tomorrow's Spacemage | Release date: Unverified
+
+NARRATOR: Neil Hellegers
+
+AUTHOR: Cale Plamann
+SERIES: Blessed Time
+  Book 1-4 - Blessed Time: The Complete Series [Bundle] | Release date: Unverified
+
+NARRATOR: Steve Campbell
+
+AUTHOR: Cameron Milan
+SERIES: Towers of Heaven
+  Book 1 - Towers of Heaven: Book 1 | Release date: Unverified
+
+  Book 2 - Towers of Heaven: Book 2 | Release date: Unverified
+
+  Book 3 - Towers of Heaven: Book 3 | Release date: Unverified
+
+NARRATOR: Travis Baldree
+
+AUTHOR: From Hell; OppaTranslations (translator)
+SERIES: Master Hunter K
+  Book 1 - Initialization | Release date: Unverified
+
+  Book 2 - The Chosen Ones | Release date: Unverified
+
+AUTHOR: From Hell
+SERIES: Master Hunter K
+  Book 3 - The Final Chapter | Release date: Unverified
+
+NARRATOR: Will M. Watt; Annie Ellicott; Jeff Hays; Laurie Catherine Winkel
+
+AUTHOR: Jonathan Smidt; Portal Books
+SERIES: Elemental Dungeon
+  Book 1 - Bone Dungeon | Release date: Unverified
+
+  Book 3 - Hallowed Bones | Release date: Unverified
+
+NARRATOR: Will M. Watt; Annie Ellicott; Laurie Catherine Winkel
+
+AUTHOR: Jonathan Smidt; Portal Books
+SERIES: Elemental Dungeon
+  Book 2 - Infernal Bones | Release date: Unverified
+
+INCOMPLETE SERIES
+-----------------
+206 catalog entries
+
 NARRATOR: Adam Baldwin
 
 AUTHOR: Larry Correia
@@ -595,14 +693,6 @@ SERIES: Founder's Edition
   Book 1 - Lighting the Forge | Release date: Unverified
 
   Book 2 - Striking the Stone | Release date: Unverified
-
-AUTHOR: Sean Oswald
-SERIES: Class Shift
-  Book 1 - Uncontrollable | Release date: Unverified
-
-  Book 2 - Unbalanced | Release date: Unverified
-
-  Book 3 - Unstoppable | Release date: Unverified
 
 NARRATOR: Daniel Wisniewski; Elizabeth Plant
 
@@ -866,24 +956,6 @@ AUTHOR: Alexey Osadchuk; Irene Woodhead (translator); Neil P. Woodhead (translat
 SERIES: Mirror World
   Book 5 - The Founder | Release date: Unverified
 
-NARRATOR: Jonathan Yen
-
-AUTHOR: Vasily Mahanenko
-SERIES: The Way of the Shaman
-  Book 1 - Survival Quest | Release date: Unverified
-
-  Book 2 - The Kartoss Gambit | Release date: Unverified
-
-  Book 3 - The Secret of the Dark Forest | Release date: Unverified
-
-  Book 4 - The Phantom Castle | Release date: Unverified
-
-  Book 5 - The Karmadont Chess Set | Release date: Unverified
-
-  Book 6 - Shaman's Revenge | Release date: Unverified
-
-  Book 7 - Clans War | Release date: Unverified
-
 NARRATOR: Justin Thomas James; Jeff Hays; Andrea Parsneau
 
 AUTHOR: Gregory Allanther
@@ -911,16 +983,6 @@ NARRATOR: Justin Thomas James; Jeff Hays; Andrea Parsneau; Prax Venter
 AUTHOR: Prax Venter
 SERIES: Irrelevant Jack
   Book 2 - Irrelevant Jack 2 | Release date: Unverified
-
-NARRATOR: Kevin T. Collins
-
-AUTHOR: Timothy Ellis
-SERIES: Spacemage Chronicle
-  Book 1 - Yesterday's Spacemage | Release date: Unverified
-
-  Book 2 - Today's Spacemage | Release date: Unverified
-
-  Book 3 - Tomorrow's Spacemage | Release date: Unverified
 
 NARRATOR: Kyle McCarley
 
@@ -985,10 +1047,6 @@ SERIES: An Outcast in Another World
   Book 3 - Rising Insanity | Release date: Unverified
 
   Book 4 - Ascendant Insanity | Release date: Unverified
-
-AUTHOR: Cale Plamann
-SERIES: Blessed Time
-  Book 1-4 - Blessed Time: The Complete Series [Bundle] | Release date: Unverified
 
 AUTHOR: Eric Ugland
 SERIES: The Bad Guys
@@ -1106,16 +1164,6 @@ SERIES: Mimic & Me
 
   Book 4 - Mimic & Me 4 | Release date: Unverified
 
-NARRATOR: Steve Campbell
-
-AUTHOR: Cameron Milan
-SERIES: Towers of Heaven
-  Book 1 - Towers of Heaven: Book 1 | Release date: Unverified
-
-  Book 2 - Towers of Heaven: Book 2 | Release date: Unverified
-
-  Book 3 - Towers of Heaven: Book 3 | Release date: Unverified
-
 NARRATOR: Travis Baldree
 
 AUTHOR: Casualfarmer
@@ -1134,16 +1182,6 @@ SERIES: Mark of the Fool
 
   Book 2 - Mark of the Fool 2 | Release date: Unverified
 
-AUTHOR: From Hell; OppaTranslations (translator)
-SERIES: Master Hunter K
-  Book 1 - Initialization | Release date: Unverified
-
-  Book 2 - The Chosen Ones | Release date: Unverified
-
-AUTHOR: From Hell
-SERIES: Master Hunter K
-  Book 3 - The Final Chapter | Release date: Unverified
-
 AUTHOR: J.R. Mathews
 SERIES: Jake's Magical Market
   Book 1 - Jake's Magical Market | Release date: Unverified
@@ -1157,18 +1195,4 @@ SERIES: Shadow Sun
   Book 2 - Shadow Sun Expansion | Release date: Unverified
 
   Book 3 - Shadow Sun Rebellion | Release date: Unverified
-
-NARRATOR: Will M. Watt; Annie Ellicott; Jeff Hays; Laurie Catherine Winkel
-
-AUTHOR: Jonathan Smidt; Portal Books
-SERIES: Elemental Dungeon
-  Book 1 - Bone Dungeon | Release date: Unverified
-
-  Book 3 - Hallowed Bones | Release date: Unverified
-
-NARRATOR: Will M. Watt; Annie Ellicott; Laurie Catherine Winkel
-
-AUTHOR: Jonathan Smidt; Portal Books
-SERIES: Elemental Dungeon
-  Book 2 - Infernal Bones | Release date: Unverified
 
