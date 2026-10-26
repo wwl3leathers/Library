@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 25; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 414 category listings.
+Categories are user-assigned: Legacy 97; Favorited 52; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 441 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -265,7 +265,7 @@ FAVORITED
 
 COMPLETE SERIES/NOVEL
 ---------------------
-7 catalog entries
+10 catalog entries
 
 NARRATOR: Daniel Wisniewski
 
@@ -293,9 +293,23 @@ SERIES: Super Powereds
 
   Book 5 - Corpies | Release date: Unverified
 
+NARRATOR: Will M. Watt; Annie Ellicott; Jeff Hays; Laurie Catherine Winkel
+
+AUTHOR: Jonathan Smidt; Portal Books
+SERIES: Elemental Dungeon
+  Book 1 - Bone Dungeon | Release date: Unverified
+
+  Book 3 - Hallowed Bones | Release date: Unverified
+
+NARRATOR: Will M. Watt; Annie Ellicott; Laurie Catherine Winkel
+
+AUTHOR: Jonathan Smidt; Portal Books
+SERIES: Elemental Dungeon
+  Book 2 - Infernal Bones | Release date: Unverified
+
 INCOMPLETE SERIES
 -----------------
-18 catalog entries
+42 catalog entries
 
 NARRATOR: Amy Landon
 
@@ -323,6 +337,58 @@ SERIES: Battleborne
 
   Book 4 - Dungeon Master | Release date: Unverified
 
+NARRATOR: Derek Austin
+
+AUTHOR: Austyn Vickers
+SERIES: Accidental Healer
+  Book 1 - Accidental Healer | Release date: Unverified
+
+NARRATOR: Eric Michael Summerer
+
+AUTHOR: Rick Scott
+SERIES: Crystal Shards Online
+  Book 1 - Dodge Tank | Release date: Unverified
+
+  Book 2 - Shard Warrior | Release date: Unverified
+
+  Book 3 - Shard Wraith | Release date: Unverified
+
+  Book 4 - Gun Blade | Release date: Unverified
+
+  Book 5 - Goblin Queen | Release date: Unverified
+
+NARRATOR: Jeff Hays
+
+AUTHOR: Matt Dinniman
+SERIES: Dungeon Crawler Carl
+  Book 1 - Dungeon Crawler Carl | Release date: Unverified
+
+  Book 2 - Carl's Doomsday Scenario | Release date: Unverified
+
+  Book 4 - The Gate of the Feral Gods | Release date: Unverified
+
+  Book 5 - The Butcher's Masquerade | Release date: Unverified
+
+  Book 8 - A Parade of Horribles | Release date: Unverified
+
+NARRATOR: Jeff Hays; Patrick Warburton; Travis Baldree; Annie Ellicott
+
+AUTHOR: Matt Dinniman
+SERIES: Dungeon Crawler Carl
+  Book 6 - The Eye of the Bedlam Bride | Release date: Unverified
+
+NARRATOR: Jeff Hays; The Critical Drinker
+
+AUTHOR: Matt Dinniman
+SERIES: Dungeon Crawler Carl
+  Book 3 - The Dungeon Anarchist's Cookbook | Release date: Unverified
+
+NARRATOR: Jeff Hays; Travis Baldree
+
+AUTHOR: Matt Dinniman
+SERIES: Dungeon Crawler Carl
+  Book 7 - This Inevitable Ruin | Release date: Unverified
+
 NARRATOR: Luke Daniels
 
 AUTHOR: Andrew Ball
@@ -330,6 +396,34 @@ SERIES: Contractors
   Book 1 - Contractor | Release date: Unverified
 
   Book 2 - Prisoner | Release date: Unverified
+
+NARRATOR: Nick Podehl
+
+AUTHOR: Aleron Kong
+SERIES: Chaos Seeds (The Land)
+  Book 1 - The Land: Founding | Release date: Unverified
+
+  Book 2 - The Land: Forging | Release date: Unverified
+
+  Book 3 - The Land: Alliances | Release date: Unverified
+
+  Book 4 - The Land: Catacombs | Release date: Unverified
+
+  Book 5 - The Land: Swarm | Release date: Unverified
+
+  Book 6 - The Land: Raiders | Release date: Unverified
+
+  Book 7 - The Land: Predators | Release date: Unverified
+
+  Book 8 - The Land: Monsters | Release date: Unverified
+
+NARRATOR: Ramon De Ocampo
+
+AUTHOR: Blaise Corvin; Outspan Foster; Blaise Corvin (foreword)
+SERIES: Anthem of Infinity
+  Book 1 - First Song | Release date: Unverified
+
+  Book 2 - First Song, Book Two | Release date: Unverified
 
 NARRATOR: Scott Aiello
 
