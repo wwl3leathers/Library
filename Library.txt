@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 52; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 441 category listings.
+Categories are user-assigned: Legacy 97; Favorited 60; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 449 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -309,7 +309,7 @@ SERIES: Elemental Dungeon
 
 INCOMPLETE SERIES
 -----------------
-42 catalog entries
+50 catalog entries
 
 NARRATOR: Amy Landon
 
@@ -357,6 +357,18 @@ SERIES: Crystal Shards Online
 
   Book 5 - Goblin Queen | Release date: Unverified
 
+NARRATOR: Heath Miller
+
+AUTHOR: Haylock Jobson
+SERIES: Heretical Fishing
+  Book 1 - Heretical Fishing | Release date: Unverified
+
+  Book 2 - Heretical Fishing 2 | Release date: Unverified
+
+  Book 3 - Heretical Fishing 3 | Release date: Unverified
+
+  Book 4 - Heretical Fishing 4 | Release date: Unverified
+
 NARRATOR: Jeff Hays
 
 AUTHOR: Matt Dinniman
@@ -397,7 +409,21 @@ SERIES: Contractors
 
   Book 2 - Prisoner | Release date: Unverified
 
+NARRATOR: Nick Flesher
+
+AUTHOR: Zathiun
+SERIES: How I Became the Strongest Man in the Galaxy
+  Book 1 - How I Became the Strongest Man in the Galaxy | Release date: Unverified
+
 NARRATOR: Nick Podehl
+
+AUTHOR: Tommy Kerper; SourpatchHero
+SERIES: I'm Not the Hero
+  Book 1 - I'm Not the Hero | Release date: Unverified
+
+  Book 2 - Secrets and Strife | Release date: Unverified
+
+  Book 3 - An Education in Magical Affairs | Release date: Unverified
 
 AUTHOR: Aleron Kong
 SERIES: Chaos Seeds (The Land)
