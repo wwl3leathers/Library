@@ -3,7 +3,7 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Author (surname where applicable), series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned. Legacy currently contains 80 entries; the remaining 326 are Unassigned.
+Categories are user-assigned: Legacy 84; Favorited 7; Educational 3; Unassigned 312.
 Alternate recordings and bundles remain separate entries.
 
 LEGACY
@@ -63,6 +63,16 @@ SERIES: The Dresden Files
 
   Working for Bigfoot | Release date: Unverified
 
+AUTHOR: Charles Dickens
+SERIES: Standalone / no series listed
+  The Cricket on the Hearth | Release date: Unverified
+
+AUTHOR: James Jakins
+SERIES: Standalone / no series listed
+  Jack Bloodfist: Fixer | Release date: Unverified
+
+  Jack Bloodfist: Freelancer | Release date: Unverified
+
 AUTHOR: Robert Jordan
 SERIES: The Wheel of Time
   Book 1 - The Eye of the World | Release date: Unverified
@@ -94,6 +104,10 @@ SERIES: The Wheel of Time
   Book 13 - Towers of Midnight | Release date: Unverified
 
   Book 14 - A Memory of Light | Release date: Unverified
+
+AUTHOR: Jackson MacKenzie; Shannon Thomas (introduction)
+SERIES: Standalone / no series listed
+  Whole Again: Healing Your Heart and Rediscovering Your True Self After Toxic Relationships and Emotional Abuse | Release date: Unverified
 
 AUTHOR: J.K. Rowling
 SERIES: Harry Potter / Wizarding World Collection
@@ -197,6 +211,55 @@ AUTHOR: Jeff Sproul
 SERIES: Sigil Online
   Book 1 - Sigil Online: Paragons | Release date: Unverified
 
+
+FAVORITED
+=========
+
+AUTHOR: Alan Black
+SERIES: Standalone / no series listed
+  Larry Goes to Space | Release date: Unverified
+
+AUTHOR: Paulo Coelho
+SERIES: Standalone / no series listed
+  The Alchemist: A Fable About Following Your Dream | Release date: Unverified
+
+AUTHOR: James Haddock
+SERIES: Standalone / no series listed
+  Wizard's Alley | Release date: Unverified
+
+AUTHOR: H. P. Lovecraft
+SERIES: Standalone / no series listed
+  The Complete Fiction of H.P. Lovecraft | Release date: Unverified
+
+AUTHOR: Michael R. Miller; Portal Books
+SERIES: Standalone / no series listed
+  Battle Spire: A Crafting LitRPG Book | Release date: Unverified
+
+AUTHOR: John Scalzi
+SERIES: Standalone / no series listed
+  Starter Villain | Release date: Unverified
+
+AUTHOR: Bram Stoker
+SERIES: Standalone / no series listed
+  Dracula | Release date: Unverified
+
+
+EDUCATIONAL
+===========
+
+AUTHOR: Fellowship for the Performing Arts
+SERIES: Standalone / no series listed
+  The Listener's Bible NIV: The Complete Bible, Genesis to Revelation | Release date: Unverified
+
+AUTHOR: Paul Noble
+SERIES: Standalone / no series listed
+  Learn Spanish with Paul Noble for Beginners – Complete Course | Release date: Unverified
+
+AUTHOR: Greg Shields
+SERIES: Standalone / no series listed
+  How to Start a Business: The Ultimate Step-by-Step Guide to Starting a Small Business from Business Plan to Scaling Up + LLC | Release date: Unverified
+
+
 UNASSIGNED
 ==========
 
@@ -213,10 +276,6 @@ SERIES: Super Sales on Super Heroes
   Book 1 - Super Sales on Super Heroes | Release date: Unverified
 
   Book 2 - Super Sales on Super Heroes, Book 2 | Release date: Unverified
-
-AUTHOR: Fellowship for the Performing Arts
-SERIES: Standalone / no series listed
-  The Listener's Bible NIV: The Complete Bible, Genesis to Revelation | Release date: Unverified
 
 AUTHOR: Michael Atamanov
 SERIES: The Dark Herbalist
@@ -239,10 +298,6 @@ SERIES: Contractors
   Book 1 - Contractor | Release date: Unverified
 
   Book 2 - Prisoner | Release date: Unverified
-
-AUTHOR: Alan Black
-SERIES: Standalone / no series listed
-  Larry Goes to Space | Release date: Unverified
 
 AUTHOR: Xander Boyce
 SERIES: Red Mage
@@ -292,10 +347,6 @@ SERIES: Mark of the Fool
 
   Book 2 - Mark of the Fool 2 | Release date: Unverified
 
-AUTHOR: Paulo Coelho
-SERIES: Standalone / no series listed
-  The Alchemist: A Fable About Following Your Dream | Release date: Unverified
-
 AUTHOR: Larry Correia
 SERIES: Monster Hunter
   Book 1 - Monster Hunter International | Release date: Unverified
@@ -333,10 +384,6 @@ SERIES: Sponsored Apocalypse
   Book 1 - Sponsored Apocalypse | Release date: Unverified
 
   Book 2 - Sponsored Apocalypse 2 | Release date: Unverified
-
-AUTHOR: Charles Dickens
-SERIES: Standalone / no series listed
-  The Cricket on the Hearth | Release date: Unverified
 
 AUTHOR: Matt Dinniman
 SERIES: Dungeon Crawler Carl
@@ -402,10 +449,6 @@ SERIES: The Tome of Bill / Bill of the Dead
 
   Book 11 - Carnage À Trois | Release date: Unverified
 
-AUTHOR: James Haddock
-SERIES: Standalone / no series listed
-  Wizard's Alley | Release date: Unverified
-
 AUTHOR: Kevin Hardman
 SERIES: Kid Sensation
   Book 1 - Sensation | Release date: Unverified
@@ -428,9 +471,9 @@ SERIES: Kid Sensation
 
 AUTHOR: John G. Hartness
 SERIES: Bubba the Monster Hunter
-  Book 1-3 - Bubba the Monster Hunter: Books 1-3 [Bundle] | Release date: Unverified
-
   Book 1 - Scattered, Smothered, and Chunked | Release date: Unverified
+
+  Book 1-3 - Bubba the Monster Hunter: Books 1-3 [Bundle] | Release date: Unverified
 
   Book 2 - Grits, Guns & Glory | Release date: Unverified
 
@@ -534,12 +577,6 @@ AUTHOR: From Hell
 SERIES: Master Hunter K
   Book 3 - The Final Chapter | Release date: Unverified
 
-AUTHOR: James Jakins
-SERIES: Standalone / no series listed
-  Jack Bloodfist: Fixer | Release date: Unverified
-
-  Jack Bloodfist: Freelancer | Release date: Unverified
-
 AUTHOR: Haylock Jobson
 SERIES: Heretical Fishing
   Book 1 - Heretical Fishing | Release date: Unverified
@@ -624,14 +661,6 @@ SERIES: Amelia
 
   Book 3 - Amelia the Level Zero Hero 3 | Release date: Unverified
 
-AUTHOR: H. P. Lovecraft
-SERIES: Standalone / no series listed
-  The Complete Fiction of H.P. Lovecraft | Release date: Unverified
-
-AUTHOR: Jackson MacKenzie; Shannon Thomas (introduction)
-SERIES: Standalone / no series listed
-  Whole Again: Healing Your Heart and Rediscovering Your True Self After Toxic Relationships and Emotional Abuse | Release date: Unverified
-
 AUTHOR: Vasily Mahanenko
 SERIES: Galactogon
   Book 1 - Start the Game | Release date: Unverified
@@ -699,14 +728,6 @@ SERIES: Towers of Heaven
   Book 2 - Towers of Heaven: Book 2 | Release date: Unverified
 
   Book 3 - Towers of Heaven: Book 3 | Release date: Unverified
-
-AUTHOR: Michael R. Miller; Portal Books
-SERIES: Standalone / no series listed
-  Battle Spire: A Crafting LitRPG Book | Release date: Unverified
-
-AUTHOR: Paul Noble
-SERIES: Standalone / no series listed
-  Learn Spanish with Paul Noble for Beginners – Complete Course | Release date: Unverified
 
 AUTHOR: Alexey Osadchuk
 SERIES: Mirror World
@@ -826,8 +847,6 @@ SERIES: Chrysalis
 
 AUTHOR: Richard Roberts
 SERIES: Please Don't Tell My Parents
-  Book 0 - I Did NOT Give That Spider Superhuman Intelligence! | Release date: Unverified
-
   Book 1 - Please Don't Tell My Parents I'm a Supervillain | Release date: Unverified
 
   Book 2 - Please Don't Tell My Parents I Blew Up the Moon | Release date: Unverified
@@ -838,9 +857,7 @@ SERIES: Please Don't Tell My Parents
 
   Book 5 - Please Don't Tell My Parents You Believe Her | Release date: Unverified
 
-AUTHOR: John Scalzi
-SERIES: Standalone / no series listed
-  Starter Villain | Release date: Unverified
+  Book 0 - I Did NOT Give That Spider Superhuman Intelligence! | Release date: Unverified
 
 AUTHOR: Rick Scott
 SERIES: Crystal Shards Online
@@ -853,10 +870,6 @@ SERIES: Crystal Shards Online
   Book 4 - Gun Blade | Release date: Unverified
 
   Book 5 - Goblin Queen | Release date: Unverified
-
-AUTHOR: Greg Shields
-SERIES: Standalone / no series listed
-  How to Start a Business: The Ultimate Step-by-Step Guide to Starting a Small Business from Business Plan to Scaling Up + LLC | Release date: Unverified
 
 AUTHOR: Shirtaloon; Travis Deverell
 SERIES: He Who Fights with Monsters
@@ -891,10 +904,6 @@ SERIES: Elemental Dungeon
   Book 2 - Infernal Bones | Release date: Unverified
 
   Book 3 - Hallowed Bones | Release date: Unverified
-
-AUTHOR: Bram Stoker
-SERIES: Standalone / no series listed
-  Dracula | Release date: Unverified
 
 AUTHOR: SunriseCV
 SERIES: System Universe
