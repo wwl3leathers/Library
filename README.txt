@@ -2,7 +2,7 @@ LIBRARY
 
 Personal book catalog. Text documents only.
 
-Library.txt contains all 406 entries: Legacy (92), Favorited (22), Educational (3), Urban Fantasy/superhero (60), Fantasy/escape (229).
+Library.txt contains all 406 entries: Legacy (97), Favorited (17), Educational (3), Urban Fantasy/superhero (60), Fantasy/escape (229).
 Entries are sorted by author, series, book number, title, and release date.
 Audiobook release dates are unverified because the source omitted them.
 
@@ -32,3 +32,7 @@ This category contains the remaining urban fantasy and superhero series; named F
 CATEGORY UPDATE - October 26, 2026
 All remaining 229 Unassigned entries are now categorized as Fantasy/escape.
 No entries remain unassigned.
+
+CATEGORY UPDATE - October 26, 2026
+Moved from Favorited to Legacy: Larry Goes to Space; The Alchemist: A Fable About Following Your Dream; The Complete Fiction of H.P. Lovecraft; Starter Villain; Dracula.
+Current totals: Legacy 97; Favorited 17; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
