@@ -3,8 +3,8 @@ Catalog of 406 Audible library entries supplied October 25, 2026.
 
 ORDER: Favorited and Fantasy/escape: completion section, narrator, author, series, book number, title, release date. Other categories: author, series, book number, title, release date.
 RELEASE DATE: Audiobook edition release date. These dates were not included in the supplied library text; all remain unverified.
-Categories are user-assigned: Legacy 97; Favorited 60; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
-Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 449 category listings.
+Categories are user-assigned: Legacy 97; Favorited 78; Educational 3; Urban Fantasy/superhero 60; Fantasy/escape 229.
+Favorited is an additional listing for selections made from Fantasy/escape. These categories overlap; there are 406 unique source entries and 467 category listings.
 Alternate recordings and bundles remain separate entries.
 Narrator names appear once per narrator group within each completion section; ensemble recordings stay together.
 COMPLETION RULE: Complete Series/Novel requires a finished story AND the complete set in your supplied library. Self-contained standalone novels qualify. Missing volumes, ongoing series, and every doubtful case go in Incomplete Series.
@@ -265,7 +265,7 @@ FAVORITED
 
 COMPLETE SERIES/NOVEL
 ---------------------
-10 catalog entries
+13 catalog entries
 
 NARRATOR: Daniel Wisniewski
 
@@ -293,6 +293,18 @@ SERIES: Super Powereds
 
   Book 5 - Corpies | Release date: Unverified
 
+NARRATOR: Travis Baldree
+
+AUTHOR: From Hell; OppaTranslations (translator)
+SERIES: Master Hunter K
+  Book 1 - Initialization | Release date: Unverified
+
+  Book 2 - The Chosen Ones | Release date: Unverified
+
+AUTHOR: From Hell
+SERIES: Master Hunter K
+  Book 3 - The Final Chapter | Release date: Unverified
+
 NARRATOR: Will M. Watt; Annie Ellicott; Jeff Hays; Laurie Catherine Winkel
 
 AUTHOR: Jonathan Smidt; Portal Books
@@ -309,7 +321,7 @@ SERIES: Elemental Dungeon
 
 INCOMPLETE SERIES
 -----------------
-50 catalog entries
+65 catalog entries
 
 NARRATOR: Amy Landon
 
@@ -401,6 +413,36 @@ AUTHOR: Matt Dinniman
 SERIES: Dungeon Crawler Carl
   Book 7 - This Inevitable Ruin | Release date: Unverified
 
+NARRATOR: Jill Smith
+
+AUTHOR: R.A. Mejia
+SERIES: Project Alpha
+  Book 1 - Project Alpha: Book 1 | Release date: Unverified
+
+  Book 2 - Project Alpha: Book 2 | Release date: Unverified
+
+NARRATOR: Johnathan McClain
+
+AUTHOR: Ryan Rimmel
+SERIES: Noobtown
+  Book 1 - The Mayor of Noobtown | Release date: Unverified
+
+  Book 2 - The Village of Noobtown | Release date: Unverified
+
+  Book 3 - Castle of the Noobs | Release date: Unverified
+
+  Book 4 - Dungeons and Noobs | Release date: Unverified
+
+  Book 5 - Noob Game Plus | Release date: Unverified
+
+  Book 6 - Nautical Noobs | Release date: Unverified
+
+  Book 7 - Tower of the Noobs | Release date: Unverified
+
+  Book 8 - The War of the Noobs | Release date: Unverified
+
+  Book 9 - The Noob Returns | Release date: Unverified
+
 NARRATOR: Luke Daniels
 
 AUTHOR: Andrew Ball
@@ -450,6 +492,18 @@ SERIES: Anthem of Infinity
   Book 1 - First Song | Release date: Unverified
 
   Book 2 - First Song, Book Two | Release date: Unverified
+
+NARRATOR: Ryan H. Reid; Jeff Hays; Dorrie Sacks
+
+AUTHOR: Cassius Lange; Ryan Tang
+SERIES: Mimic & Me
+  Book 1 - Mimic & Me | Release date: Unverified
+
+  Book 2 - Mimic & Me 2 | Release date: Unverified
+
+  Book 3 - Mimic & Me 3 | Release date: Unverified
+
+  Book 4 - Mimic & Me 4 | Release date: Unverified
 
 NARRATOR: Scott Aiello
 
