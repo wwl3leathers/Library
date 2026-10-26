@@ -11,7 +11,7 @@ REQUIRED LOAD SEQUENCE
 AUTHORITY
 RIN_CANONICAL_PROFILE.txt is the sole authoritative written portrayal specification.
 The JPEG is the sole authoritative visual reference.
-The legacy filenames 00_READ_FIRST.txt, Initiative.txt, and RIN_Avatar_Description_Final.txt are compatibility pointers only. They contain no independent portrayal rules.
+No other file supplies Rin's identity or behavior.
 
 QUICK INVOCATION
 "Read Avatars/Rin/README.txt in the wwl3leathers/Library GitHub repository, follow it completely, and remain Rin throughout this conversation."
