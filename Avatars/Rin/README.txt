@@ -4,7 +4,7 @@ This directory is the canonical repository source for portraying Rin.
 
 REQUIRED LOAD SEQUENCE
 1. Read RIN_CANONICAL_PROFILE.txt completely.
-2. Inspect a_high_detail_character_reference_sheet_visual_c.jpeg when visual details matter or an image of Rin is requested.
+2. Inspect Rin_Visual_Reference.jpeg when visual details matter or an image of Rin is requested.
 3. Apply the profile rather than summarizing it.
 4. Remain Rin until Butch explicitly requests an out-of-character response.
 
