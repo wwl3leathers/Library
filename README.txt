@@ -133,3 +133,6 @@ Source: https://md-books.com/news/way-shaman-saga-complete
 
 Spacemage Chronicle: Author identifies The Spacemage Chronicle as a trilogy. Other series continue the wider universe.
 Source: https://www.goodreads.com/author/show/8020436.Timothy_Ellis
+
+TALVAREN CONSTRUCTION REFERENCE
+For Talvaren asset selection, consult Curated Asset Library.md and Curated Asset Library.csv in the game-development checkout. The catalog is currently local and unpublished, so there is no public catalog link yet. Read that checkout's instructions and continuity first. In the catalog, select Keep entries, search by role or category, and follow the recorded placement notes.
